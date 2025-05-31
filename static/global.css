@@ -1,0 +1,80 @@
+body {
+  background: #181818;
+  color: #fff;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+/* Zentrieren des Inhalts */
+.centered-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.import-box {
+  background: #232323;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.45);
+  padding: 32px 32px 24px 32px;
+  width: 500px;
+  max-width: 90vw;
+}
+
+.import-box h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+.form-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 18px;
+}
+
+.form-label {
+  width: 100px;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.form-input {
+  width: 100%;
+  background: #181818;
+  color: #fff;
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+.form-input:focus {
+  outline: none;
+  border-color: #005ecb;
+}
+
+.submit-row {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 16px;
+}
+
+.submit-btn {
+  background: #336699;
+  color: #fff;
+  padding: 8px 28px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.17s;
+}
+
+.submit-btn:hover {
+  background: #24518b;
+}

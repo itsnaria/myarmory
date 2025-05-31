@@ -1,0 +1,4246 @@
+[
+  {
+    "name": "Multiple Continents",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 635,
+            "creatureId": 61325,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Adder"
+          },
+          {
+            "ID": 441,
+            "creatureId": 61690,
+            "icon": "inv_misc_rabbit",
+            "name": "Alpine Hare"
+          },
+          {
+            "ID": 838,
+            "creatureId": 62182,
+            "icon": "inv_misc_qirajicrystal_05",
+            "name": "Amethyst Shale Hatchling"
+          },
+          {
+            "ID": 427,
+            "creatureId": 61420,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Ash Spiderling"
+          },
+          {
+            "ID": 425,
+            "creatureId": 61385,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Ash Viper"
+          },
+          {
+            "ID": 626,
+            "creatureId": 61829,
+            "icon": "ability_hunter_pet_bat",
+            "name": "Bat"
+          },
+          {
+            "ID": 406,
+            "creatureId": 61319,
+            "icon": "inv_inscription_pigment_bug04",
+            "name": "Beetle"
+          },
+          {
+            "ID": 398,
+            "creatureId": 61257,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Black Rat"
+          },
+          {
+            "ID": 449,
+            "creatureId": 61752,
+            "icon": "inv_prairiedog_brown",
+            "name": "Brown Marmot"
+          },
+          {
+            "ID": 459,
+            "creatureId": 62019,
+            "icon": "ability_hunter_catlikereflexes",
+            "name": "Cat"
+          },
+          {
+            "ID": 646,
+            "creatureId": 62664,
+            "icon": "inv_thanksgiving_turkey",
+            "name": "Chicken"
+          },
+          {
+            "ID": 393,
+            "creatureId": 61384,
+            "icon": "inv_pet_cockroach",
+            "name": "Cockroach"
+          },
+          {
+            "ID": 447,
+            "creatureId": 61165,
+            "icon": "inv_pet_fawn",
+            "name": "Fawn"
+          },
+          {
+            "ID": 519,
+            "creatureId": 62621,
+            "icon": "spell_fire_felfire",
+            "name": "Fel Flame"
+          },
+          {
+            "ID": 415,
+            "creatureId": 61328,
+            "icon": "inv_inscription_pigment_bug04",
+            "name": "Fire Beetle"
+          },
+          {
+            "ID": 541,
+            "creatureId": 62886,
+            "icon": "inv_pet_cockroach",
+            "name": "Fire-Proof Roach"
+          },
+          {
+            "ID": 407,
+            "creatureId": 61320,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Forest Spiderling"
+          },
+          {
+            "ID": 569,
+            "creatureId": 63002,
+            "icon": "spell_shaman_hex",
+            "name": "Garden Frog"
+          },
+          {
+            "ID": 2114,
+            "creatureId": 128156,
+            "icon": "inv_misc_pelt_10",
+            "name": "Globe Yeti"
+          },
+          {
+            "ID": 430,
+            "creatureId": 61438,
+            "icon": "inv_inscription_pigment_bug04",
+            "name": "Gold Beetle"
+          },
+          {
+            "ID": 647,
+            "creatureId": 62818,
+            "icon": "inv_misc_monstertail_01",
+            "name": "Grizzly Squirrel"
+          },
+          {
+            "ID": 448,
+            "creatureId": 61751,
+            "icon": "inv_misc_rabbit",
+            "name": "Hare"
+          },
+          {
+            "ID": 483,
+            "creatureId": 62185,
+            "icon": "spell_shaman_hex",
+            "name": "Horny Toad"
+          },
+          {
+            "ID": 648,
+            "creatureId": 61368,
+            "icon": "spell_shaman_hex",
+            "name": "Huge Toad"
+          },
+          {
+            "ID": 628,
+            "creatureId": 61827,
+            "icon": "ability_creature_poison_02",
+            "name": "Infected Fawn"
+          },
+          {
+            "ID": 627,
+            "creatureId": 61828,
+            "icon": "inv_pet_diseasedsquirrel",
+            "name": "Infected Squirrel"
+          },
+          {
+            "ID": 702,
+            "creatureId": 63919,
+            "icon": "spell_shaman_hex",
+            "name": "Leopard Tree Frog"
+          },
+          {
+            "ID": 404,
+            "creatureId": 61317,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Long-tailed Mole"
+          },
+          {
+            "ID": 450,
+            "creatureId": 61753,
+            "icon": "inv_misc_food_vendor_boiledsilkwormpupa",
+            "name": "Maggot"
+          },
+          {
+            "ID": 391,
+            "creatureId": 61167,
+            "icon": "inv_misc_rabbit",
+            "name": "Mountain Cottontail"
+          },
+          {
+            "ID": 633,
+            "creatureId": 61677,
+            "icon": "inv_misc_volatileshadow",
+            "name": "Mountain Skunk"
+          },
+          {
+            "ID": 385,
+            "creatureId": 61143,
+            "icon": "inv_pet_mouse",
+            "name": "Mouse"
+          },
+          {
+            "ID": 1441,
+            "creatureId": 83642,
+            "icon": "inv_pet_toad_brown",
+            "name": "Mud Jumper"
+          },
+          {
+            "ID": 403,
+            "creatureId": 61313,
+            "icon": "spell_nature_forceofnature",
+            "name": "Parrot"
+          },
+          {
+            "ID": 386,
+            "creatureId": 61141,
+            "icon": "inv_pet_prairiedog",
+            "name": "Prairie Dog"
+          },
+          {
+            "ID": 378,
+            "creatureId": 61080,
+            "icon": "inv_misc_rabbit",
+            "name": "Rabbit"
+          },
+          {
+            "ID": 417,
+            "creatureId": 61366,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Rat"
+          },
+          {
+            "ID": 431,
+            "creatureId": 61439,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Rattlesnake"
+          },
+          {
+            "ID": 452,
+            "creatureId": 61757,
+            "icon": "inv_misc_monstertail_01",
+            "name": "Red-Tailed Chipmunk"
+          },
+          {
+            "ID": 424,
+            "creatureId": 61169,
+            "icon": "inv_pet_cockroach",
+            "name": "Roach"
+          },
+          {
+            "ID": 482,
+            "creatureId": 62184,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Rock Viper"
+          },
+          {
+            "ID": 414,
+            "creatureId": 61326,
+            "icon": "ability_hunter_pet_scorpid",
+            "name": "Scorpid"
+          },
+          {
+            "ID": 560,
+            "creatureId": 62953,
+            "icon": "inv_misc_seagullpet_01",
+            "name": "Sea Gull"
+          },
+          {
+            "ID": 388,
+            "creatureId": 61158,
+            "icon": "inv_crab2_ivory",
+            "name": "Shore Crab"
+          },
+          {
+            "ID": 568,
+            "creatureId": 63001,
+            "icon": "trade_archaeology_fossil_snailshell",
+            "name": "Silkbead Snail"
+          },
+          {
+            "ID": 397,
+            "creatureId": 61255,
+            "icon": "inv_misc_volatileshadow",
+            "name": "Skunk"
+          },
+          {
+            "ID": 419,
+            "creatureId": 61071,
+            "icon": "spell_shaman_hex",
+            "name": "Small Frog"
+          },
+          {
+            "ID": 387,
+            "creatureId": 61142,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Snake"
+          },
+          {
+            "ID": 412,
+            "creatureId": 61327,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Spider"
+          },
+          {
+            "ID": 433,
+            "creatureId": 61441,
+            "icon": "trade_archaeology_trolllizardfootcharm",
+            "name": "Spiky Lizard"
+          },
+          {
+            "ID": 379,
+            "creatureId": 61081,
+            "icon": "inv_misc_monstertail_01",
+            "name": "Squirrel"
+          },
+          {
+            "ID": 401,
+            "creatureId": 61312,
+            "icon": "inv_crab2_bronze",
+            "name": "Strand Crab"
+          },
+          {
+            "ID": 432,
+            "creatureId": 61440,
+            "icon": "ability_hunter_pet_scorpid",
+            "name": "Stripe-Tailed Scorpid"
+          },
+          {
+            "ID": 1590,
+            "creatureId": 88359,
+            "icon": "ability_hunter_pet_wasp",
+            "name": "Swamplighter Firefly"
+          },
+          {
+            "ID": 497,
+            "creatureId": 62314,
+            "icon": "inv_pet_cockroach",
+            "name": "Tainted Cockroach"
+          },
+          {
+            "ID": 420,
+            "creatureId": 61369,
+            "icon": "spell_shaman_hex",
+            "name": "Toad"
+          },
+          {
+            "ID": 480,
+            "creatureId": 62181,
+            "icon": "inv_misc_qirajicrystal_01",
+            "name": "Topaz Shale Hatchling"
+          },
+          {
+            "ID": 469,
+            "creatureId": 62118,
+            "icon": "inv_misc_ahnqirajtrinket_01",
+            "name": "Twilight Beetle"
+          },
+          {
+            "ID": 470,
+            "creatureId": 62117,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Twilight Spider"
+          },
+          {
+            "ID": 405,
+            "creatureId": 61318,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Tree Python"
+          },
+          {
+            "ID": 418,
+            "creatureId": 61367,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Water Snake"
+          },
+          {
+            "ID": 410,
+            "creatureId": 61323,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Wharf Rat"
+          }
+        ],
+        "name": ""
+      },
+      {
+        "id": "fba33fd8",
+        "items": [
+          {
+            "ID": 1062,
+            "creatureId": 67329,
+            "icon": "inv_dragonflypet_blue",
+            "name": "Darkmoon Glowfly"
+          },
+          {
+            "ID": 1068,
+            "creatureId": 67443,
+            "icon": "ability_hunter_murderofcrows",
+            "name": "Crow"
+          }
+        ],
+        "name": "Darkmoon Island"
+      }
+    ]
+  },
+  {
+    "name": "The War Within",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 4456,
+            "creatureId": 222066,
+            "icon": "inv_achievement_raidnerubian_swarmmother",
+            "name": "Arachnoid Hatchling",
+            "spellid": 445486
+          },
+          {
+            "ID": 4457,
+            "creatureId": 222071,
+            "icon": "inv_achievement_raidnerubian_swarmmother",
+            "name": "Chitin Burrower",
+            "spellid": 445450
+          },
+          {
+            "ID": 4498,
+            "creatureId": 222582,
+            "icon": "inv_caveborercritter_nocturne",
+            "name": "Ebon Ploughworm",
+            "spellid": 446490
+          },
+          {
+            "ID": 4499,
+            "creatureId": 222584,
+            "icon": "inv_caveborercritter_brown",
+            "name": "Common Ploughworm",
+            "spellid": 446492
+          },
+          {
+            "ID": 4510,
+            "creatureId": 222608,
+            "icon": "inv_flyingnerubian2_purple",
+            "name": "Winged Arachnoid",
+            "spellid": 446510
+          },
+          {
+            "ID": 4514,
+            "creatureId": 222613,
+            "icon": "inv_babyfireflypet_green",
+            "name": "Fallowspark Glowfly",
+            "spellid": 446583
+          },
+          {
+            "ID": 4518,
+            "creatureId": 222713,
+            "icon": "inv_snailmount_orange",
+            "name": "Magmashell Crawler",
+            "spellid": 446744
+          },
+          {
+            "ID": 4521,
+            "creatureId": 222736,
+            "icon": "inv_frog2_teal",
+            "name": "Subterranean Dartswog",
+            "spellid": 446767
+          },
+          {
+            "ID": 4522,
+            "creatureId": 222739,
+            "icon": "inv_frog2_white",
+            "itemId": 228098,
+            "name": "Troglofrog",
+            "spellid": 446768
+          },
+          {
+            "ID": 4526,
+            "creatureId": 222775,
+            "icon": "inv_collections_armor_flowerbracelet_a_01",
+            "name": "Sandstone Mosswool",
+            "spellid": 446797
+          },
+          {
+            "ID": 4533,
+            "creatureId": 222875,
+            "icon": "inv_fungallasher_red",
+            "name": "Meek Bloodlasher",
+            "spellid": 447008
+          },
+          {
+            "ID": 4535,
+            "creatureId": 222877,
+            "icon": "inv_fungallasher_orange",
+            "name": "Ghostcap Menace",
+            "spellid": 447010
+          },
+          {
+            "ID": 4541,
+            "creatureId": 223090,
+            "icon": "inv_protoramearthen_grey",
+            "name": "Bedrock Stonecharger",
+            "spellid": 447503
+          },
+          {
+            "ID": 4571,
+            "creatureId": 223706,
+            "icon": "inv_babymolepet_pink",
+            "itemId": 228097,
+            "name": "Pinkskin Burrower",
+            "spellid": 449369
+          },
+          {
+            "ID": 4573,
+            "creatureId": 223712,
+            "icon": "inv_babymolepet_yellow",
+            "name": "Skittish Sniffler",
+            "spellid": 449472
+          },
+          {
+            "ID": 4485,
+            "creatureId": 222499,
+            "icon": "inv_snailrockmount_black",
+            "name": "Mossy Snail",
+            "spellid": 446247
+          },
+          {
+            "ID": 4515,
+            "creatureId": 222614,
+            "icon": "inv_babyfireflypet_blue",
+            "name": "Azure Flickerfly",
+            "spellid": 446584
+          },
+          {
+            "ID": 4516,
+            "creatureId": 222615,
+            "icon": "inv_babyfireflypet_purple",
+            "itemId": 228096,
+            "name": "Vibrant Glowfly",
+            "spellid": 446585
+          }
+        ],
+        "name": "Multiple Zones"
+      },
+      {
+        "items": [
+          {
+            "ID": 3361,
+            "creatureId": 192363,
+            "icon": "inv_crab2_diamond",
+            "name": "Diamond Crab",
+            "spellid": 377401
+          },
+          {
+            "ID": 4525,
+            "creatureId": 222774,
+            "icon": "inv_collections_armor_flowerbracelet_a_01",
+            "name": "Fragrant Stonelamb",
+            "spellid": 446796
+          },
+          {
+            "ID": 4529,
+            "creatureId": 222778,
+            "icon": "inv_collections_armor_flowerbracelet_a_01",
+            "name": "Shale Mosswool",
+            "spellid": 446800
+          },
+          {
+            "ID": 4538,
+            "creatureId": 223094,
+            "icon": "inv_protoramearthen_blue",
+            "name": "Cobalt Ramolith",
+            "spellid": 447499
+          },
+          {
+            "ID": 4539,
+            "creatureId": 223093,
+            "icon": "inv_protoramearthen_black",
+            "name": "Granite Ramolith",
+            "spellid": 447501
+          },
+          {
+            "ID": 4540,
+            "creatureId": 223092,
+            "icon": "inv_protoramearthen_white",
+            "name": "Alabaster Stonecharger",
+            "spellid": 447502
+          },
+          {
+            "ID": 4577,
+            "creatureId": 223698,
+            "icon": "inv_firebeemount_",
+            "itemId": 223626,
+            "name": "Cinderhoney Emberstinger",
+            "spellid": 449513
+          }
+        ],
+        "name": "Isle of Dorn"
+      },
+      {
+        "items": [
+          {
+            "ID": 4574,
+            "creatureId": 223715,
+            "icon": "inv_babymolepet_dark",
+            "name": "Snuffling",
+            "spellid": 449473
+          },
+          {
+            "ID": 3547,
+            "creatureId": 204354,
+            "icon": "inv_viperrock2_green",
+            "itemId": 205153,
+            "name": "Jade Cragviper",
+            "spellid": 408265
+          },
+          {
+            "ID": 4507,
+            "creatureId": 222592,
+            "icon": "inv_grey_sporecreature2",
+            "name": "Hemospore",
+            "spellid": 446500
+          },
+          {
+            "ID": 4484,
+            "creatureId": 222420,
+            "icon": "inv_bloodticklarvaedarkred",
+            "itemId": 221762,
+            "name": "Frenzied Bloodtick",
+            "spellid": 446119
+          }
+        ],
+        "name": "The Ringing Deeps"
+      },
+      {
+        "items": [
+          {
+            "ID": 4460,
+            "creatureId": 222195,
+            "icon": "inv_chicken2_white",
+            "name": "Arathi Chicken",
+            "spellid": 445803
+          },
+          {
+            "ID": 4461,
+            "creatureId": 222194,
+            "icon": "inv_chicken2_white",
+            "name": "Greenlands Chicken",
+            "spellid": 445815
+          },
+          {
+            "ID": 4544,
+            "creatureId": 223136,
+            "icon": "spell_shadow_summonvoidwalker",
+            "name": "Umbral Amalgam",
+            "spellid": 447903
+          }
+        ],
+        "name": "Hallowfall"
+      },
+      {
+        "items": [
+          {
+            "ID": 4471,
+            "creatureId": 222325,
+            "icon": "inv_babyoctopus",
+            "name": "Aubergine Scootlefish",
+            "spellid": 446030
+          },
+          {
+            "ID": 4477,
+            "creatureId": 222344,
+            "icon": "inv_babyoctopus_green",
+            "name": "Verdant Scootlefish",
+            "spellid": 446050
+          },
+          {
+            "ID": 4480,
+            "creatureId": 222351,
+            "icon": "inv_maldraxxusslime_red",
+            "name": "Shadowy Oozeling",
+            "spellid": 446057
+          },
+          {
+            "ID": 4481,
+            "creatureId": 222354,
+            "icon": "inv_maldraxxusslime_purple",
+            "name": "Voidling Ooze",
+            "spellid": 446058
+          },
+          {
+            "ID": 4483,
+            "creatureId": 222421,
+            "icon": "inv_bloodticklarvaepurple",
+            "name": "Vile Bloodtick",
+            "spellid": 446115
+          },
+          {
+            "ID": 3550,
+            "creatureId": 204361,
+            "icon": "inv_mothunderlight_red",
+            "itemId": 205157,
+            "name": "Undermoth",
+            "spellid": 408314
+          }
+        ],
+        "name": "Azj-Kahet"
+      },
+      {
+        "items": [
+          {
+            "ID": 4724,
+            "creatureId": 234734,
+            "icon": "ability_hunter_pet_boar",
+            "name": "Battleboar Piglet"
+          },
+          {
+            "ID": 4628,
+            "creatureId": 230394,
+            "icon": "inv_trilobitemount_green",
+            "name": "Tidal Kroling"
+          },
+          {
+            "ID": 4702,
+            "creatureId": 234097,
+            "icon": "inv_trilobitemount_red",
+            "name": "Rusty Kroling"
+          },
+          {
+            "ID": 4703,
+            "creatureId": 234101,
+            "icon": "inv_trilobitemount_sandy",
+            "name": "Cave Kroling"
+          },
+          {
+            "ID": 4710,
+            "creatureId": 234367,
+            "icon": "inv_parrotmount_red",
+            "name": "Pillaged Parrot"
+          },
+          {
+            "ID": 4711,
+            "creatureId": 234369,
+            "icon": "inv_snapdragonmount02",
+            "name": "Snapdragon Pup"
+          },
+          {
+            "ID": 4723,
+            "creatureId": 234710,
+            "icon": "ability_mount_tawnywindrider",
+            "name": "Cliffreach Cub"
+          },
+          {
+            "ID": 4731,
+            "creatureId": 236040,
+            "icon": "inv_snapdragonmount01",
+            "name": "Storm-Infused Snapdragon"
+          },
+          {
+            "ID": 4732,
+            "creatureId": 236041,
+            "icon": "inv_snapdragonmount03",
+            "name": "Scavenging Snapdragon"
+          }
+        ],
+        "name": "Siren Isle"
+      },
+      {
+        "items": [
+          {
+            "ID": 4651,
+            "creatureId": 231477,
+            "icon": "inv_111_rat_brown",
+            "name": "Wily Rat",
+            "spellid": 471893
+          },
+          {
+            "ID": 4652,
+            "creatureId": 231470,
+            "icon": "inv_111_rat_radioactive",
+            "name": "Acid-Drenched Rat",
+            "spellid": 471896
+          },
+          {
+            "ID": 4654,
+            "creatureId": 231481,
+            "icon": "inv_cockroach2_brown",
+            "name": "Underroach",
+            "spellid": 471897
+          },
+          {
+            "ID": 4656,
+            "creatureId": 231550,
+            "icon": "inv_crabbomb_blue",
+            "name": "Bombshell Crab",
+            "spellid": 471909
+          },
+          {
+            "ID": 4657,
+            "creatureId": 231567,
+            "icon": "inv_crabbomb_yellow",
+            "name": "Venture Bombshell",
+            "spellid": 471908
+          },
+          {
+            "ID": 4658,
+            "creatureId": 231570,
+            "icon": "inv_crabcave_blue",
+            "name": "Cave Crab",
+            "spellid": 471910
+          },
+          {
+            "ID": 4660,
+            "creatureId": 231574,
+            "icon": "inv_crabcave_white",
+            "name": "Paleshell Crab",
+            "spellid": 471917
+          },
+          {
+            "ID": 4662,
+            "creatureId": 231577,
+            "icon": "inv_mechanicalprairiedog_green",
+            "name": "Varmint MK II",
+            "spellid": 471932
+          },
+          {
+            "ID": 4663,
+            "creatureId": 231579,
+            "icon": "inv_chicken2_mechanical",
+            "name": "Lime Roboclucker",
+            "spellid": 471934
+          },
+          {
+            "ID": 4667,
+            "creatureId": 231684,
+            "icon": "inv_frog2_mechanical_yellow",
+            "name": "Spring-Loaded Ribbitron",
+            "spellid": 471943
+          },
+          {
+            "ID": 4668,
+            "creatureId": 231686,
+            "icon": "inv_frog2_mechanical_black",
+            "name": "Ultrahopper EX",
+            "spellid": 471937
+          },
+          {
+            "ID": 4693,
+            "creatureId": 231728,
+            "icon": "inv_maldraxxusslime_purple",
+            "name": "Alchemical Runoff",
+            "spellid": 471898
+          }
+        ],
+        "name": "Undermine"
+      },
+      {
+        "items": [
+          {
+            "ID": 4659,
+            "creatureId": 231572,
+            "icon": "inv_crabcave_green",
+            "name": "Kaja Crab",
+            "spellid": 471911
+          },
+          {
+            "ID": 4666,
+            "creatureId": 231616,
+            "icon": "inv_frog2_black",
+            "name": "Tropical Frog",
+            "spellid": 471912
+          }
+        ],
+        "name": "Zuldazar"
+      }
+    ]
+  },
+  {
+    "id": "47b6ed78",
+    "name": "Dragonflight",
+    "subcats": [
+      {
+        "id": "8f7c47a2",
+        "items": [
+          {
+            "ID": 3272,
+            "creatureId": 189093,
+            "icon": "inv_rabbitshaggy_white",
+            "name": "Pricklefury Hare"
+          },
+          {
+            "ID": 3276,
+            "creatureId": 189097,
+            "icon": "inv_squirrelflying_darkchocolate",
+            "name": "Treeflitter"
+          },
+          {
+            "ID": 3281,
+            "creatureId": 189103,
+            "icon": "inv_pet_riverotter_brown",
+            "name": "Scruffy Ottuk"
+          },
+          {
+            "ID": 3282,
+            "creatureId": 189104,
+            "icon": "ivn_toadloamount",
+            "name": "Swoglet"
+          },
+          {
+            "ID": 3283,
+            "creatureId": 189107,
+            "icon": "inv_10_elementalspiritfoozles_lightning",
+            "name": "Snowlemental"
+          },
+          {
+            "ID": 3288,
+            "creatureId": 189110,
+            "icon": "inv_mammoth2pet_dark",
+            "name": "Trunkalumpf"
+          },
+          {
+            "ID": 3295,
+            "creatureId": 189121,
+            "icon": "ability_earthen_pillar",
+            "name": "Igneoid"
+          },
+          {
+            "ID": 3296,
+            "creatureId": 189122,
+            "icon": "inv_salamanderwaterbaby_purple",
+            "name": "Palamanther"
+          },
+          {
+            "ID": 3300,
+            "creatureId": 189131,
+            "icon": "inv_duck_black",
+            "name": "Ironbeak Duck"
+          },
+          {
+            "ID": 3301,
+            "creatureId": 189136,
+            "icon": "inv_duckbaby_black",
+            "name": "Wild Duckling",
+            "spellid": 429055
+          },
+          {
+            "ID": 3307,
+            "creatureId": 189144,
+            "icon": "inv_duckbaby_white",
+            "name": "Plucky Duckling",
+            "spellid": 429053
+          },
+          {
+            "ID": 3313,
+            "creatureId": 189153,
+            "icon": "inv_thunderlizardprimalbaby_black",
+            "name": "Grassland Stomper"
+          },
+          {
+            "ID": 3322,
+            "creatureId": 189157,
+            "icon": "inv_woodpecker_white",
+            "name": "Woodbiter Piculet"
+          },
+          {
+            "ID": 3328,
+            "creatureId": 189658,
+            "icon": "inv_beaverprimalpet_dark",
+            "name": "Tiny Timbertooth"
+          },
+          {
+            "ID": 3336,
+            "creatureId": 191323,
+            "icon": "inv_kirinbaby_dark",
+            "name": "Vorquin Runt"
+          },
+          {
+            "ID": 3351,
+            "creatureId": 194720,
+            "icon": "inv_bearprimalcub_black",
+            "name": "Grizzlefur Cub"
+          },
+          {
+            "ID": 3353,
+            "creatureId": 192254,
+            "icon": "inv_babyturtle2_black",
+            "name": "Stoneshell"
+          },
+          {
+            "ID": 3366,
+            "creatureId": 193000,
+            "icon": "inv_10_elementalshardfoozles_fire",
+            "name": "Kindlet"
+          }
+        ],
+        "name": "Multiple Zones"
+      },
+      {
+        "id": "f09da711",
+        "items": [
+          {
+            "ID": 3273,
+            "creatureId": 189094,
+            "icon": "inv_slugmount_red",
+            "name": "Magma Slug"
+          },
+          {
+            "ID": 3280,
+            "creatureId": 189102,
+            "icon": "inv_primaldragonflymount_orange",
+            "name": "Shyfly"
+          },
+          {
+            "ID": 3318,
+            "creatureId": 189155,
+            "icon": "inv_thunderlizardprimalbaby_light",
+            "name": "Thunderfoot Calf"
+          },
+          {
+            "ID": 3367,
+            "creatureId": 193024,
+            "icon": "inv_elemental_primal_fire",
+            "name": "Emberling"
+          },
+          {
+            "ID": 3385,
+            "creatureId": 192029,
+            "icon": "inv_thunderlizardprimalbaby_brown",
+            "name": "Storm-Touched Stomper"
+          }
+        ],
+        "name": "The Waking Shores"
+      },
+      {
+        "id": "53955bc1",
+        "items": [
+          {
+            "ID": 3266,
+            "creatureId": 189160,
+            "icon": "inv_foxwyvernpetblack",
+            "name": "Black Slyvern Pup"
+          },
+          {
+            "ID": 3327,
+            "creatureId": 189657,
+            "icon": "inv_beaverprimalpet_brown",
+            "name": "Dusky Timbertooth"
+          },
+          {
+            "ID": 3329,
+            "creatureId": 189660,
+            "icon": "inv_beaverprimalpet_light",
+            "name": "Storm-Touched Timbertooth"
+          },
+          {
+            "ID": 3389,
+            "creatureId": 197063,
+            "icon": "inv_duck_white",
+            "name": "The Quackcestor"
+          }
+        ],
+        "name": "Ohn'ahran Plains"
+      },
+      {
+        "id": "099b6105",
+        "items": [
+          {
+            "ID": 3260,
+            "creatureId": 188792,
+            "icon": "inv_squirrelflying_albino",
+            "name": "Snowy Treeflitter"
+          },
+          {
+            "ID": 3320,
+            "creatureId": 189209,
+            "icon": "inv_foxwyvernpetwhite",
+            "name": "Whitewhisker"
+          },
+          {
+            "ID": 3335,
+            "creatureId": 191316,
+            "icon": "inv_kirinbaby_pale",
+            "name": "Pale Baby Vorquin"
+          },
+          {
+            "ID": 3354,
+            "creatureId": 192256,
+            "icon": "inv_pet_riverotter_white",
+            "name": "Storm-Touched Ottuk"
+          },
+          {
+            "ID": 3356,
+            "creatureId": 192260,
+            "icon": "inv_babyturtle2_white",
+            "name": "Chalkshell Turtle"
+          },
+          {
+            "ID": 3357,
+            "creatureId": 192265,
+            "icon": "inv_porcupinecrystal_navy",
+            "name": "Azure Crystalspine"
+          }
+        ],
+        "name": "The Azure Span"
+      },
+      {
+        "id": "d99b94b5",
+        "items": [
+          {
+            "ID": 3352,
+            "creatureId": 192251,
+            "icon": "inv_bearprimalcub_red",
+            "name": "Razortooth Bear Cub"
+          },
+          {
+            "ID": 3358,
+            "creatureId": 192268,
+            "icon": "inv_porcupinecrystal_red",
+            "name": "Crimsonspine"
+          },
+          {
+            "ID": 3403,
+            "creatureId": 197629,
+            "icon": "inv_primaldragonflymount_blue",
+            "name": "Blue Dasher"
+          },
+          {
+            "ID": 3404,
+            "creatureId": 197637,
+            "icon": "ivn_toadloadmount_yellow",
+            "name": "Polliswog"
+          },
+          {
+            "ID": 3384,
+            "creatureId": 192259,
+            "icon": "inv_woodpecker_blue",
+            "name": "Storm-Touched Bluefeather"
+          }
+        ],
+        "name": "Thaldraszus"
+      },
+      {
+        "id": "fcdc9792",
+        "items": [
+          {
+            "ID": 3477,
+            "creatureId": 203287,
+            "icon": "inv_babyhornswog_black",
+            "name": "Puddlehopper"
+          },
+          {
+            "ID": 3478,
+            "creatureId": 203288,
+            "icon": "inv_caveswallow_red",
+            "name": "Rock Martin"
+          },
+          {
+            "ID": 3479,
+            "creatureId": 203289,
+            "icon": "inv_primaldragonflymount_yellow",
+            "name": "Yellabon"
+          },
+          {
+            "ID": 3480,
+            "creatureId": 203292,
+            "icon": "inv_beetleprimal_black",
+            "name": "Endmite",
+            "spellid": 429058
+          },
+          {
+            "ID": 3481,
+            "creatureId": 203308,
+            "icon": "inv_mouserock_yellow",
+            "name": "Stonewhisker"
+          },
+          {
+            "ID": 3482,
+            "creatureId": 203310,
+            "icon": "inv_snailrockmount_black",
+            "name": "Cobbleshell",
+            "spellid": 429074
+          },
+          {
+            "ID": 3483,
+            "creatureId": 203311,
+            "icon": "inv_viperrock_red",
+            "name": "Boulderfang"
+          },
+          {
+            "ID": 3484,
+            "creatureId": 203312,
+            "icon": "inv_sporebatrock_deepred",
+            "name": "Slabwing"
+          },
+          {
+            "ID": 3485,
+            "creatureId": 203313,
+            "icon": "inv_mothunderlight_orange",
+            "name": "Hollow Moth"
+          },
+          {
+            "ID": 3486,
+            "creatureId": 203358,
+            "icon": "inv_caveswallow_orange",
+            "name": "Lithengale"
+          },
+          {
+            "ID": 3487,
+            "creatureId": 203364,
+            "icon": "inv_snailrockmount_red",
+            "name": "Scarlapod",
+            "spellid": 429073
+          },
+          {
+            "ID": 3488,
+            "creatureId": 203367,
+            "icon": "inv_sporebatrock_red",
+            "name": "Deepridger"
+          },
+          {
+            "ID": 3489,
+            "creatureId": 203372,
+            "icon": "inv_viperrock_yellow",
+            "name": "Sunglow Cobra"
+          },
+          {
+            "ID": 3490,
+            "creatureId": 203377,
+            "icon": "inv_mothunderlight_rockred",
+            "name": "Ebonwing Moth"
+          }
+        ],
+        "name": "Zaralek Cavern"
+      },
+      {
+        "id": "9b161339",
+        "items": [
+          {
+            "ID": 4275,
+            "creatureId": 211110,
+            "icon": "inv_icon_feather01c",
+            "name": "Flooftalon"
+          },
+          {
+            "ID": 4276,
+            "creatureId": 211177,
+            "icon": "inv_dreampanda_dark",
+            "name": "Fol'ya Pup",
+            "spellid": 429068
+          },
+          {
+            "ID": 4277,
+            "creatureId": 211182,
+            "icon": "inv_pineconecritter_red",
+            "name": "Sapnibbler",
+            "spellid": 429070
+          },
+          {
+            "ID": 4278,
+            "creatureId": 211288,
+            "icon": "ability_ardenweald_paladin_summer",
+            "name": "Leyhart",
+            "spellid": 429064
+          },
+          {
+            "ID": 4279,
+            "creatureId": 211295,
+            "icon": "inv_babysabretoothraptor_purple",
+            "name": "Slumbertooth"
+          },
+          {
+            "ID": 4280,
+            "creatureId": 211302,
+            "icon": "inv_skunk2_black",
+            "name": "Pewling"
+          },
+          {
+            "ID": 4302,
+            "creatureId": 212437,
+            "icon": "inv_babysabretoothraptor_white",
+            "name": "Pale Slumbertooth"
+          },
+          {
+            "ID": 4303,
+            "creatureId": 212459,
+            "icon": "inv_icon_feather01a",
+            "name": "Snaggletoof"
+          },
+          {
+            "ID": 4304,
+            "creatureId": 212557,
+            "icon": "inv_skunk2_brown",
+            "name": "Dream Badger"
+          }
+        ],
+        "name": "The Emerald Dream"
+      }
+    ]
+  },
+  {
+    "name": "Shadowlands",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 2919,
+            "creatureId": 171229,
+            "icon": "inv_decomposermountyellow",
+            "name": "Gorm Rootstinger"
+          },
+          {
+            "ID": 2924,
+            "creatureId": 171228,
+            "icon": "ability_mount_cranemount",
+            "name": "Tranquil Wader"
+          },
+          {
+            "ID": 3021,
+            "creatureId": 173590,
+            "icon": "inv_squirrelardenweald_dark",
+            "name": "Deepwood Leaper"
+          },
+          {
+            "ID": 3080,
+            "creatureId": 176019,
+            "icon": "inv_babyfox_green",
+            "name": "Verdant Kit"
+          },
+          {
+            "ID": 3081,
+            "creatureId": 176020,
+            "icon": "inv_decomposersmallgreen",
+            "name": "Decay Grub"
+          },
+          {
+            "ID": 3082,
+            "creatureId": 176021,
+            "icon": "inv_mothardenwealdmount_mint",
+            "name": "Starmoth"
+          }
+        ],
+        "name": "Ardenweald"
+      },
+      {
+        "items": [
+          {
+            "ID": 2926,
+            "creatureId": 171567,
+            "icon": "ability_mount_pandarenphoenix",
+            "name": "Fledgling Teroclaw"
+          },
+          {
+            "ID": 2927,
+            "creatureId": 171664,
+            "icon": "inv_magicbutterfly_blue",
+            "name": "Fluttering Glimmerfly"
+          },
+          {
+            "ID": 2929,
+            "creatureId": 171668,
+            "icon": "inv_magicbutterfly_pink",
+            "name": "Vibrant Glimmerfly"
+          },
+          {
+            "ID": 2930,
+            "creatureId": 171670,
+            "icon": "ability_mount_pandaranmountepicblack",
+            "name": "Glimmerpool Hatchling"
+          },
+          {
+            "ID": 2936,
+            "creatureId": 171702,
+            "icon": "inv_babyfox_orange",
+            "name": "Copperfur Kit"
+          },
+          {
+            "ID": 2937,
+            "creatureId": 171703,
+            "icon": "inv_babyfox_red",
+            "name": "Rustfur Kit"
+          },
+          {
+            "ID": 2939,
+            "creatureId": 171712,
+            "icon": "ability_mount_cranemountblue",
+            "name": "Wader Chick"
+          },
+          {
+            "ID": 2943,
+            "creatureId": 171666,
+            "icon": "inv_aetherwyrm",
+            "name": "Wild Etherwyrm"
+          }
+        ],
+        "name": "Bastion"
+      },
+      {
+        "items": [
+          {
+            "ID": 2950,
+            "creatureId": 172130,
+            "icon": "inv_skeletonhandpet_bone",
+            "name": "Clutch"
+          },
+          {
+            "ID": 3049,
+            "creatureId": 175021,
+            "icon": "inv_larva2_darkred",
+            "name": "Pulsating Maggot"
+          },
+          {
+            "ID": 3050,
+            "creatureId": 175022,
+            "icon": "inv_minespider2_green",
+            "name": "Bleak Skitterer"
+          },
+          {
+            "ID": 3051,
+            "creatureId": 175023,
+            "icon": "inv_maldraxxusslime_purple",
+            "name": "Animated Cruor"
+          },
+          {
+            "ID": 3052,
+            "creatureId": 175024,
+            "icon": "inv_manaraymount_black",
+            "name": "Necroray Spawnling"
+          },
+          {
+            "ID": 3083,
+            "creatureId": 176024,
+            "icon": "inv_pet_batpetmaldraxxus",
+            "name": "Crawbat"
+          }
+        ],
+        "name": "Maldraxxus"
+      },
+      {
+        "items": [
+          {
+            "ID": 2895,
+            "creatureId": 171123,
+            "icon": "sha_spell_warlock_demonsoul",
+            "name": "Lost Soul"
+          },
+          {
+            "ID": 2902,
+            "creatureId": 171149,
+            "icon": "inv_giantvampirebatmount_silver",
+            "name": "Dusky Dredwing Pup"
+          },
+          {
+            "ID": 3007,
+            "creatureId": 173506,
+            "icon": "inv_minespider2_wetlands",
+            "name": "Rosetipped Spiderling"
+          },
+          {
+            "ID": 3014,
+            "creatureId": 173555,
+            "icon": "inv_swamppet_green",
+            "name": "Mire Creeper"
+          },
+          {
+            "ID": 3015,
+            "creatureId": 173556,
+            "icon": "inv_swamppet",
+            "name": "Withering Creeper"
+          }
+        ],
+        "name": "Revendreth"
+      },
+      {
+        "items": [
+          {
+            "ID": 3115,
+            "creatureId": 179179,
+            "icon": "inv_skeletonhandpet_green",
+            "name": "Clinging Remains"
+          },
+          {
+            "ID": 3118,
+            "creatureId": 179182,
+            "icon": "inv_mawratgreen",
+            "name": "Scurrying Mawrat"
+          },
+          {
+            "ID": 3119,
+            "creatureId": 179183,
+            "icon": "inv_mawhand_blue",
+            "name": "Lost Limb"
+          },
+          {
+            "ID": 3120,
+            "creatureId": 179219,
+            "icon": "inv_mawguardhand_white",
+            "name": "Grip of Terror"
+          },
+          {
+            "ID": 3123,
+            "creatureId": 179226,
+            "icon": "inv_mawroach_blue2",
+            "name": "Deathroach"
+          },
+          {
+            "ID": 3124,
+            "creatureId": 179227,
+            "icon": "inv_mawroach_green",
+            "name": "Vile Deathroach"
+          },
+          {
+            "ID": 3126,
+            "creatureId": 179229,
+            "icon": "inv_maweye_grey",
+            "name": "Eye of Affliction"
+          }
+        ],
+        "name": "The Maw"
+      },
+      {
+        "items": [
+          {
+            "ID": 3102,
+            "creatureId": 179131,
+            "icon": "inv_devourersmallmount_light",
+            "name": "Animite Broodling"
+          },
+          {
+            "ID": 3134,
+            "creatureId": 179248,
+            "icon": "inv_mawexpansionbearmount_light",
+            "name": "Anxious Nibbler"
+          },
+          {
+            "ID": 3135,
+            "creatureId": 179250,
+            "icon": "inv_mawexpansionbearmount_red",
+            "name": "Young Garnetgullet"
+          },
+          {
+            "ID": 3139,
+            "creatureId": 179256,
+            "icon": "inv_devourerswarmer_dark",
+            "name": "Devourling"
+          },
+          {
+            "ID": 3141,
+            "creatureId": 179329,
+            "icon": "inv_flymaldraxxusmount_green",
+            "name": "Wild Corpsefly"
+          }
+        ],
+        "name": "Korthia"
+      },
+      {
+        "items": [
+          {
+            "ID": 3108,
+            "creatureId": 179164,
+            "icon": "inv_catbroker_dark",
+            "name": "Curious Purrkin"
+          },
+          {
+            "ID": 3109,
+            "creatureId": 179165,
+            "icon": "inv_catbroker_silver",
+            "name": "Silver Purrkin"
+          },
+          {
+            "ID": 3111,
+            "creatureId": 179167,
+            "icon": "inv_brokerrat_brown",
+            "name": "Damp Skrat"
+          },
+          {
+            "ID": 3112,
+            "creatureId": 179168,
+            "icon": "inv_brokerrat_white",
+            "name": "Scavenging Skrat"
+          }
+        ],
+        "name": "Tazavesh"
+      },
+      {
+        "items": [
+          {
+            "ID": 3216,
+            "creatureId": 183277,
+            "icon": "inv_progenitoraxolotl_dark",
+            "name": "Ambystan Snapper"
+          },
+          {
+            "ID": 3217,
+            "creatureId": 183281,
+            "icon": "inv_progenitorjellyfishpet_red",
+            "name": "Aurelid Floater"
+          },
+          {
+            "ID": 3212,
+            "creatureId": 182876,
+            "icon": "inv_progenitorwasp_mount_red",
+            "name": "Bloodsucker Vespoid"
+          },
+          {
+            "ID": 3173,
+            "creatureId": 181362,
+            "icon": "inv_pogenitortoadmount_dark",
+            "name": "Bufonid Croaker"
+          },
+          {
+            "ID": 3206,
+            "creatureId": 182691,
+            "icon": "inv_progenitorbeetlegreen",
+            "name": "Emerald Scarabid"
+          },
+          {
+            "ID": 3210,
+            "creatureId": 182768,
+            "icon": "inv_progenitorwormpetgreen",
+            "name": "Green Viperid"
+          },
+          {
+            "ID": 3209,
+            "creatureId": 182760,
+            "icon": "inv_progenitorwormpetblue",
+            "name": "King Viperid"
+          },
+          {
+            "ID": 3205,
+            "creatureId": 182568,
+            "icon": "inv_progenitorbeetlebronze",
+            "name": "Metallic Scarabid"
+          },
+          {
+            "ID": 3214,
+            "creatureId": 183158,
+            "icon": "inv_progenitorwombatmount_red",
+            "name": "Momma Vombata"
+          },
+          {
+            "ID": 3219,
+            "creatureId": 183292,
+            "icon": "inv_progenitorsnail_mount_bronze",
+            "name": "Predatory Helicid"
+          },
+          {
+            "ID": 3196,
+            "creatureId": 182260,
+            "icon": "inv_progenitorbird_dark",
+            "name": "Proto Avian Fledgling"
+          },
+          {
+            "ID": 3208,
+            "creatureId": 182758,
+            "icon": "inv_progenitorwormpetred",
+            "name": "Red Viperid"
+          },
+          {
+            "ID": 3200,
+            "creatureId": 182294,
+            "icon": "inv_progenitorbird_red",
+            "name": "Scarlet Proto Avian"
+          },
+          {
+            "ID": 3180,
+            "creatureId": 182019,
+            "icon": "inv_pogenitortoadmount_red",
+            "name": "Venomous Bufonid"
+          },
+          {
+            "ID": 3190,
+            "creatureId": 182216,
+            "icon": "inv_progenitorrabbitred",
+            "name": "Vicious Leporid"
+          },
+          {
+            "ID": 3213,
+            "creatureId": 183142,
+            "icon": "inv_progenitorwombatmount_darkred",
+            "name": "Vombata Pup"
+          },
+          {
+            "ID": 3203,
+            "creatureId": 182473,
+            "icon": "inv_progenitorspidermount_red",
+            "name": "Tarachnid Ambusher"
+          },
+          {
+            "ID": 3202,
+            "creatureId": 182437,
+            "icon": "inv_progenitorspidermount_dark",
+            "name": "Tarachnid Stalker"
+          },
+          {
+            "ID": 3191,
+            "creatureId": 182234,
+            "icon": "inv_progenitorrabbitgold",
+            "name": "Timid Leporid"
+          },
+          {
+            "ID": 3215,
+            "creatureId": 183230,
+            "icon": "inv_progenitorelemental_black",
+            "name": "Mawtouched Geomental"
+          },
+          {
+            "ID": 3218,
+            "creatureId": 183285,
+            "icon": "inv_progenitorchicken_yellow",
+            "name": "Enraged Poultrid"
+          }
+        ],
+        "name": "Zereth Mortis"
+      }
+    ]
+  },
+  {
+    "id": "becfd036",
+    "name": "Battle for Azeroth",
+    "subcats": [
+      {
+        "id": "266a23b6",
+        "items": [
+          {
+            "ID": 2378,
+            "creatureId": 143037,
+            "icon": "inv_pet_otter",
+            "name": "River Otter"
+          },
+          {
+            "ID": 2377,
+            "creatureId": 143036,
+            "icon": "inv_crab2_blue",
+            "name": "Sandyback Crawler"
+          }
+        ],
+        "name": "Multiple Zones"
+      },
+      {
+        "id": "79b6dbe7",
+        "items": [
+          {
+            "ID": 2386,
+            "creatureId": 143045,
+            "icon": "inv_crab2_sapphire",
+            "name": "Coastal Scuttler"
+          }
+        ],
+        "name": "Drustvar"
+      },
+      {
+        "id": "efb35141",
+        "items": [
+          {
+            "ID": 2388,
+            "creatureId": 143047,
+            "icon": "inv_tarantula2_green",
+            "name": "Bloodfever Tarantula"
+          },
+          {
+            "ID": 2398,
+            "creatureId": 143055,
+            "icon": "inv_pet_toad_black",
+            "name": "Boghopper"
+          },
+          {
+            "ID": 2400,
+            "creatureId": 143057,
+            "icon": "inv_pet_toad_black",
+            "name": "Coastal Bounder"
+          },
+          {
+            "ID": 2389,
+            "creatureId": 143048,
+            "icon": "inv_pet_waterstrider",
+            "name": "Elusive Skimmer"
+          },
+          {
+            "ID": 2395,
+            "creatureId": 143053,
+            "icon": "inv_bloodticklarvae",
+            "name": "Glutted Bleeder"
+          },
+          {
+            "ID": 2394,
+            "creatureId": 143052,
+            "icon": "trade_archaeology_tinydinosaurskeleton",
+            "name": "Returned Hatchling"
+          },
+          {
+            "ID": 2397,
+            "creatureId": 143054,
+            "icon": "inv_petraven2",
+            "name": "Spectral Raven"
+          },
+          {
+            "ID": 2393,
+            "creatureId": 143051,
+            "icon": "inv_misc_food_legion_gooslime_chunk",
+            "name": "Sticky Oozeling"
+          },
+          {
+            "ID": 2392,
+            "creatureId": 143050,
+            "icon": "inv_hermitcrab_darkdiamond_blue",
+            "name": "Young Sand Sifter"
+          }
+        ],
+        "name": "Nazmir"
+      },
+      {
+        "id": "d025a440",
+        "items": [
+          {
+            "ID": 2374,
+            "creatureId": 143033,
+            "icon": "inv_hermitcrab_orange",
+            "name": "Freshwater Crawler"
+          },
+          {
+            "ID": 2379,
+            "creatureId": 143038,
+            "icon": "inv_bee_default",
+            "name": "Honey Bee"
+          },
+          {
+            "ID": 2373,
+            "creatureId": 143032,
+            "icon": "inv_pet_toad_green",
+            "name": "River Frog"
+          },
+          {
+            "ID": 2372,
+            "creatureId": 143031,
+            "icon": "inv_crab2_sapphire",
+            "name": "Shadowback Crawler"
+          },
+          {
+            "ID": 2375,
+            "creatureId": 143034,
+            "icon": "inv_prairiedog_brown",
+            "name": "Vale Marmot"
+          },
+          {
+            "ID": 2376,
+            "creatureId": 143035,
+            "icon": "inv_chicken2_dirty",
+            "name": "Valley Chicken"
+          }
+        ],
+        "name": "Stormsong Valley"
+      },
+      {
+        "id": "072186c6",
+        "items": [
+          {
+            "ID": 2383,
+            "creatureId": 143042,
+            "icon": "inv_scarab_gold",
+            "name": "Giant Woodworm"
+          },
+          {
+            "ID": 2382,
+            "creatureId": 143041,
+            "icon": "inv_pet_toad_brown",
+            "name": "Inland Croaker"
+          },
+          {
+            "ID": 2380,
+            "creatureId": 143039,
+            "icon": "inv_giantwasp_black",
+            "name": "Parasitic Boarfly"
+          },
+          {
+            "ID": 2381,
+            "creatureId": 143040,
+            "icon": "inv_hermitcrab_blue",
+            "name": "Shack Crab"
+          }
+        ],
+        "name": "Tiragarde Sound"
+      },
+      {
+        "id": "8a1e37da",
+        "items": [
+          {
+            "ID": 2399,
+            "creatureId": 143056,
+            "icon": "inv_hermitcrab_darkred",
+            "name": "Hermit Crab"
+          }
+        ],
+        "name": "Vol'dun"
+      },
+      {
+        "id": "04078063",
+        "items": [
+          {
+            "ID": 2385,
+            "creatureId": 143044,
+            "icon": "inv_hermitcrab_sapphire",
+            "name": "Barrier Hermit"
+          },
+          {
+            "ID": 2387,
+            "creatureId": 143046,
+            "icon": "inv_scarab_gold",
+            "name": "Golden Beetle"
+          },
+          {
+            "ID": 2390,
+            "creatureId": 143049,
+            "icon": "inv_pet_butterfly_white",
+            "name": "Leafy Flutterwing"
+          },
+          {
+            "ID": 2384,
+            "creatureId": 143043,
+            "icon": "inv_pet_butterfly_blue",
+            "name": "Shore Butterfly"
+          },
+          {
+            "ID": 2537,
+            "creatureId": 148517,
+            "icon": "inv_raptorbaby_black",
+            "name": "Baby Zandalari Raptor"
+          }
+        ],
+        "name": "Zuldazar"
+      },
+      {
+        "id": "f528a9ee",
+        "items": [
+          {
+            "ID": 2678,
+            "creatureId": 154814,
+            "icon": "inv_seaeel_green",
+            "name": "Abyssal Slitherling"
+          },
+          {
+            "ID": 2652,
+            "creatureId": 154714,
+            "icon": "inv_deepseafish",
+            "name": "Bloodseeker"
+          },
+          {
+            "ID": 2648,
+            "creatureId": 154706,
+            "icon": "inv_misc_claw_deepcrab_blue",
+            "name": "Chitterspine Skitterling"
+          },
+          {
+            "ID": 2651,
+            "creatureId": 154712,
+            "icon": "inv_deepseafish",
+            "name": "Deeptide Fingerling"
+          },
+          {
+            "ID": 2647,
+            "creatureId": 154704,
+            "icon": "inv_hermitcrab_teal",
+            "name": "Glimmershell Scuttler"
+          },
+          {
+            "ID": 2650,
+            "creatureId": 154710,
+            "icon": "inv_vulturemount_albatrosspink",
+            "name": "Great Sea Albatross"
+          },
+          {
+            "ID": 2649,
+            "creatureId": 154708,
+            "icon": "inv_misc_claw_deepcrab_black",
+            "name": "Hissing Chitterspine"
+          },
+          {
+            "ID": 2660,
+            "creatureId": 154724,
+            "icon": "inv_seasluggreen",
+            "name": "Muck Slug"
+          },
+          {
+            "ID": 2645,
+            "creatureId": 154697,
+            "icon": "inv_crab2_brown",
+            "name": "Sandclaw Pincher"
+          },
+          {
+            "ID": 2646,
+            "creatureId": 154702,
+            "icon": "inv_crab2_yellow",
+            "name": "Sandclaw Sunshell"
+          },
+          {
+            "ID": 2653,
+            "creatureId": 154716,
+            "icon": "inv_seasnail_orangeblue",
+            "name": "Spireshell Snail"
+          }
+        ],
+        "name": "Nazjatar"
+      },
+      {
+        "id": "2eb12c20",
+        "items": [
+          {
+            "ID": 2662,
+            "creatureId": 154769,
+            "icon": "inv_capybara_dark",
+            "name": "Duskytooth Snooter"
+          },
+          {
+            "ID": 2664,
+            "creatureId": 154773,
+            "icon": "inv_pet_cockroach",
+            "name": "Experimental Roach"
+          },
+          {
+            "ID": 2665,
+            "creatureId": 154775,
+            "icon": "inv_frog2_tropicalblue",
+            "name": "Fleeting Frog"
+          },
+          {
+            "ID": 2663,
+            "creatureId": 154771,
+            "icon": "inv_pet_cockroach",
+            "name": "Junkheap Roach"
+          },
+          {
+            "ID": 2676,
+            "creatureId": 154798,
+            "icon": "inv_mechagonpet_junker",
+            "name": "Malfunctioning Microbot"
+          },
+          {
+            "ID": 2670,
+            "creatureId": 154785,
+            "icon": "inv_prairiedog_tan",
+            "name": "Mechagon Marmot"
+          },
+          {
+            "ID": 2667,
+            "creatureId": 154779,
+            "icon": "inv_frog2_mechanical_orange",
+            "name": "Motorized Croaker"
+          },
+          {
+            "ID": 2669,
+            "creatureId": 154783,
+            "icon": "inv_chicken2_brownhead",
+            "name": "Rustbolt Clucker"
+          },
+          {
+            "ID": 2661,
+            "creatureId": 154767,
+            "icon": "inv_capybara_brown",
+            "name": "Rustyroot Snooter"
+          },
+          {
+            "ID": 2673,
+            "creatureId": 154791,
+            "icon": "inv_mechanicalprairiedog_green",
+            "name": "Scrapyard Tunneler"
+          },
+          {
+            "ID": 2671,
+            "creatureId": 154787,
+            "icon": "inv_mechanicalprairiedog_yellow",
+            "name": "Specimen 97"
+          },
+          {
+            "ID": 2666,
+            "creatureId": 154777,
+            "icon": "inv_frog2_yellow",
+            "name": "Yellow Junkhopper"
+          }
+        ],
+        "name": "Mechagon"
+      },
+      {
+        "id": "86750fc2",
+        "items": [
+          {
+            "ID": 2657,
+            "creatureId": 154718,
+            "icon": "inv_seasnail_red",
+            "name": "Blackchasm Crawler"
+          },
+          {
+            "ID": 2658,
+            "creatureId": 154720,
+            "icon": "inv_misc_claw_deepcrab_purple",
+            "name": "Chitterspine Deepstalker"
+          },
+          {
+            "ID": 2659,
+            "creatureId": 154722,
+            "icon": "inv_seaslugpurple",
+            "name": "Trench Slug"
+          }
+        ],
+        "name": "The Eternal Palace"
+      },
+      {
+        "id": "2b9fe945",
+        "items": [
+          {
+            "ID": 2668,
+            "creatureId": 154781,
+            "icon": "inv_frog2_mechanical_copper",
+            "name": "Copper Hopper"
+          },
+          {
+            "ID": 2672,
+            "creatureId": 154789,
+            "icon": "inv_mechanicalprairiedog_copper",
+            "name": "Alloyed Alleyrat"
+          },
+          {
+            "ID": 2674,
+            "creatureId": 154794,
+            "icon": "inv_mechanicalhandpet",
+            "name": "H4ND-EE"
+          },
+          {
+            "ID": 2675,
+            "creatureId": 154796,
+            "icon": "inv_mechanicalhandpet",
+            "name": "Clanking Scrapsorter"
+          }
+        ],
+        "name": "Operation: Mechagon"
+      },
+      {
+        "id": "dbddd3a4",
+        "items": [
+          {
+            "ID": 2863,
+            "creatureId": 162499,
+            "icon": "inv_icon_wing03d",
+            "name": "Oasis Void-Duster"
+          },
+          {
+            "ID": 2864,
+            "creatureId": 162502,
+            "icon": "inv_pet_cockroach",
+            "name": "Void-Scarred Locust"
+          }
+        ],
+        "name": "Assault: Uldum"
+      },
+      {
+        "id": "0d5fc9cd",
+        "items": [
+          {
+            "ID": 2867,
+            "creatureId": 162525,
+            "icon": "inv_pet_cricket",
+            "name": "Golden Chirper"
+          },
+          {
+            "ID": 2866,
+            "creatureId": 162506,
+            "icon": "ability_hunter_pet_wasp",
+            "name": "Voidglower"
+          },
+          {
+            "ID": 2865,
+            "creatureId": 162518,
+            "icon": "inv_pet_waterstrider",
+            "name": "Voidskimmer"
+          }
+        ],
+        "name": "Assault: Vale of Eternal Blossoms"
+      }
+    ]
+  },
+  {
+    "name": "Legion",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 1743,
+            "creatureId": 97741,
+            "icon": "inv_misc_foxkit",
+            "name": "Black-Footed Fox Kit"
+          },
+          {
+            "ID": 1914,
+            "creatureId": 110826,
+            "icon": "inv_pet_thunderislebabybird",
+            "name": "Coastal Sandpiper"
+          },
+          {
+            "ID": 1708,
+            "creatureId": 97018,
+            "icon": "inv_misc_seagullpet_01",
+            "name": "Albatross Chick"
+          },
+          {
+            "ID": 1731,
+            "creatureId": 97323,
+            "icon": "inv_misc_monsterspidercarapace_01",
+            "name": "Felspider"
+          },
+          {
+            "ID": 1728,
+            "creatureId": 97283,
+            "icon": "ability_hunter_pet_crab",
+            "name": "Juvenile Scuttleback"
+          },
+          {
+            "ID": 1713,
+            "creatureId": 97118,
+            "icon": "inv_pet_wardenowl",
+            "name": "Long-Eared Owl"
+          },
+          {
+            "ID": 1744,
+            "creatureId": 97743,
+            "icon": "inv_misc_foxkit_white",
+            "name": "Mist Fox Kit"
+          },
+          {
+            "ID": 1729,
+            "creatureId": 97294,
+            "icon": "inv_misc_rabbit",
+            "name": "Olivetail Hare"
+          },
+          {
+            "ID": 1736,
+            "creatureId": 97542,
+            "icon": "spell_nature_guardianward",
+            "name": "Slithering Brownscale"
+          }
+        ],
+        "name": "Multiple Zones"
+      },
+      {
+        "items": [
+          {
+            "ID": 2122,
+            "creatureId": 128163,
+            "icon": "ability_demonhunter_demonspikes2",
+            "name": "Antoran Bile Larva"
+          },
+          {
+            "ID": 2126,
+            "creatureId": 128175,
+            "icon": "inv_leatherworking_fiendishleather",
+            "name": "Antoran Bilescourge"
+          }
+        ],
+        "name": "Antoran Wastes"
+      },
+      {
+        "items": [
+          {
+            "ID": 2131,
+            "creatureId": 128172,
+            "icon": "inv_elemental_mote_mana",
+            "name": "Arcane Gorger"
+          },
+          {
+            "ID": 2132,
+            "creatureId": 128174,
+            "icon": "inv_elemental_mote_mana",
+            "name": "Felcrazed Wyrm"
+          },
+          {
+            "ID": 2133,
+            "creatureId": 128173,
+            "icon": "inv_feasel_blue",
+            "name": "Pygmy Marsuul"
+          },
+          {
+            "ID": 2134,
+            "creatureId": 128167,
+            "icon": "inv_manaraymount_blue",
+            "name": "Skyfin Juvenile"
+          },
+          {
+            "ID": 2130,
+            "creatureId": 128171,
+            "icon": "spell_arcane_blast_nightborne",
+            "name": "Void Shardling"
+          },
+          {
+            "ID": 2129,
+            "creatureId": 128168,
+            "icon": "ability_hunter_pet_warpstalker",
+            "name": "Voidstalker Runt"
+          },
+          {
+            "ID": 2128,
+            "creatureId": 128170,
+            "icon": "ability_hunter_pet_warpstalker",
+            "name": "Warpstalker Runt"
+          }
+        ],
+        "name": "Eredath"
+      },
+      {
+        "items": [
+          {
+            "ID": 2123,
+            "creatureId": 128162,
+            "icon": "ability_demonhunter_demonspikes2",
+            "name": "Bile Larva"
+          },
+          {
+            "ID": 2124,
+            "creatureId": 128164,
+            "icon": "inv_leatherworking_fiendishleather",
+            "name": "Bilescourge"
+          },
+          {
+            "ID": 2127,
+            "creatureId": 128166,
+            "icon": "inv_pet_scorchedstone",
+            "name": "Flickering Argunite"
+          }
+        ],
+        "name": "Krokuun"
+      },
+      {
+        "items": [
+          {
+            "ID": 1714,
+            "creatureId": 97126,
+            "icon": "inv_pet_wardenowl",
+            "name": "Northern Hawk Owl"
+          },
+          {
+            "ID": 1726,
+            "creatureId": 97236,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Burrow Spiderling"
+          },
+          {
+            "ID": 1775,
+            "creatureId": 98428,
+            "icon": "ability_hunter_pet_crab",
+            "name": "Coralback Fiddler"
+          },
+          {
+            "ID": 1761,
+            "creatureId": 88542,
+            "icon": "ability_hunter_pet_bat",
+            "name": "Echo Batling"
+          },
+          {
+            "ID": 1762,
+            "creatureId": 98192,
+            "icon": "ability_hunter_pet_bat",
+            "name": "Hog-Nosed Bat"
+          },
+          {
+            "ID": 1776,
+            "creatureId": 98446,
+            "icon": "trade_archaeology_fossil_snailshell",
+            "name": "Mudshell Conch"
+          },
+          {
+            "ID": 1763,
+            "creatureId": 98211,
+            "icon": "inv_pet_beaver",
+            "name": "Spiketail Beaver"
+          }
+        ],
+        "name": "Highmountain"
+      },
+      {
+        "items": [
+          {
+            "ID": 1738,
+            "creatureId": 97555,
+            "icon": "inv_pet_raccoon",
+            "name": "Auburn Ringtail"
+          },
+          {
+            "ID": 1913,
+            "creatureId": 110741,
+            "icon": "inv_babydeer",
+            "name": "Gleamhoof Fawn"
+          },
+          {
+            "ID": 1734,
+            "creatureId": 97511,
+            "icon": "ability_hunter_pet_wasp",
+            "name": "Shimmering Aquafly"
+          },
+          {
+            "ID": 1739,
+            "creatureId": 97559,
+            "icon": "inv_pet_waterstrider",
+            "name": "Spring Strider"
+          },
+          {
+            "ID": 1735,
+            "creatureId": 97531,
+            "icon": "inv_qiraj_skinsandworm",
+            "name": "Terror Larva"
+          },
+          {
+            "ID": 1737,
+            "creatureId": 97547,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Vale Flitter"
+          }
+        ],
+        "name": "Val'sharah"
+      },
+      {
+        "items": [
+          {
+            "ID": 1807,
+            "creatureId": 99513,
+            "icon": "inv_pet_spiderdemon",
+            "name": "Vicious Broodling"
+          },
+          {
+            "ID": 1809,
+            "creatureId": 99527,
+            "icon": "inv_pet_spiderdemon",
+            "name": "Crystalline Broodling"
+          },
+          {
+            "ID": 1810,
+            "creatureId": 99528,
+            "icon": "inv_pet_spiderdemon",
+            "name": "Thornclaw Broodling"
+          }
+        ],
+        "name": "Suramar"
+      },
+      {
+        "items": [
+          {
+            "ID": 1712,
+            "creatureId": 97080,
+            "icon": "artifactability_survivalhunter_eaglesbite",
+            "name": "Golden Eaglet"
+          },
+          {
+            "ID": 1749,
+            "creatureId": 97840,
+            "icon": "inv_jewelcrafting_rubyserpent",
+            "name": "Rose Taipan"
+          },
+          {
+            "ID": 1917,
+            "creatureId": 111172,
+            "icon": "inv_pet_thunderbeaver_blue",
+            "name": "Stormstruck Beaver"
+          },
+          {
+            "ID": 1750,
+            "creatureId": 97952,
+            "icon": "achievement_halloween_ghost_01",
+            "name": "Tiny Apparition"
+          }
+        ],
+        "name": "Stormheim"
+      },
+      {
+        "items": [
+          {
+            "ID": 1774,
+            "creatureId": 98386,
+            "icon": "spell_arcane_blast_nightborne",
+            "name": "Eldritch Manafiend"
+          },
+          {
+            "ID": 1773,
+            "creatureId": 98385,
+            "icon": "spell_arcane_blast",
+            "name": "Erudite Manafiend"
+          },
+          {
+            "ID": 1709,
+            "creatureId": 97076,
+            "icon": "artifactability_survivalhunter_eaglesbite",
+            "name": "Fledgling Kingfeather"
+          },
+          {
+            "ID": 1710,
+            "creatureId": 97078,
+            "icon": "artifactability_survivalhunter_eaglesbite",
+            "name": "Fledgling Oliveback"
+          },
+          {
+            "ID": 1935,
+            "creatureId": 113440,
+            "icon": "inv_babymurloc3_yellow",
+            "name": "Squirky",
+            "spellid": "225663"
+          }
+        ],
+        "name": "Azsuna"
+      },
+      {
+        "items": [
+          {
+            "ID": 1915,
+            "creatureId": 111158,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Blind Rat"
+          },
+          {
+            "ID": 1778,
+            "creatureId": 98506,
+            "icon": "ability_vanish",
+            "name": "Dust Bunny"
+          },
+          {
+            "ID": 1912,
+            "creatureId": 110666,
+            "icon": "inv_pet_speedy",
+            "name": "Young Mutant Warturtle"
+          }
+        ],
+        "name": "Dalaran"
+      },
+      {
+        "id": "d42112ae",
+        "items": [
+          {
+            "ID": 1722,
+            "creatureId": 97206,
+            "icon": "inv_misc_head_dragon_green",
+            "itemId": 136902,
+            "name": "Dream Whelpling",
+            "spellid": 210674
+          }
+        ],
+        "name": "Emerald Nightmare"
+      }
+    ]
+  },
+  {
+    "name": "Draenor",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 1587,
+            "creatureId": 88417,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Royal Moth"
+          },
+          {
+            "ID": 1464,
+            "creatureId": 85253,
+            "icon": "inv_dragonflypet_blue",
+            "name": "Twilight Wasp"
+          },
+          {
+            "ID": 1593,
+            "creatureId": 88355,
+            "icon": "ability_hunter_pet_wasp",
+            "name": "Waterfly"
+          }
+        ],
+        "name": "Multiple Zones"
+      },
+      {
+        "items": [
+          {
+            "ID": 1427,
+            "creatureId": 82715,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Frostfur Rat"
+          },
+          {
+            "ID": 1578,
+            "creatureId": 88480,
+            "icon": "ability_hunter_pet_crab",
+            "name": "Frostshell Pincher"
+          },
+          {
+            "ID": 1457,
+            "creatureId": 85003,
+            "icon": "inv_ravager2pet_blue",
+            "name": "Icespine Hatchling"
+          },
+          {
+            "ID": 1579,
+            "creatureId": 88474,
+            "icon": "ability_hunter_pet_crab",
+            "name": "Ironclaw Scuttler"
+          }
+        ],
+        "name": "Frostfire Ridge"
+      },
+      {
+        "items": [
+          {
+            "ID": 1447,
+            "creatureId": 82045,
+            "icon": "inv_crab2_truesilver",
+            "name": "Moonshell Crab"
+          },
+          {
+            "ID": 1455,
+            "creatureId": 85005,
+            "icon": "inv_ravager2pet_white",
+            "name": "Mossbite Skitterer"
+          },
+          {
+            "ID": 1582,
+            "creatureId": 88466,
+            "icon": "ability_hunter_pet_crab",
+            "name": "Zangar Crawler"
+          }
+        ],
+        "name": "Shadowmoon Valley"
+      },
+      {
+        "items": [
+          {
+            "ID": 1465,
+            "creatureId": 85257,
+            "icon": "inv_dragonflypet_yellow",
+            "name": "Amberbarb Wasp"
+          },
+          {
+            "ID": 1470,
+            "creatureId": 85389,
+            "icon": "inv_toucan_color1",
+            "name": "Axebeak Hatchling"
+          },
+          {
+            "ID": 1469,
+            "creatureId": 85192,
+            "icon": "inv_toucan_color4",
+            "name": "Junglebeak"
+          },
+          {
+            "ID": 1594,
+            "creatureId": 88571,
+            "icon": "inv_babyhippo01",
+            "name": "Mudback Calf"
+          },
+          {
+            "ID": 1463,
+            "creatureId": 85254,
+            "icon": "inv_dragonflypet_green",
+            "name": "Wood Wasp"
+          },
+          {
+            "ID": 1615,
+            "creatureId": 89194,
+            "icon": "trade_archaeology_trolllizardfootcharm",
+            "name": "Parched Lizard"
+          }
+        ],
+        "name": "Gorgrond"
+      },
+      {
+        "items": [
+          {
+            "ID": 1572,
+            "creatureId": 88385,
+            "icon": "inv_pet_peacock_blue",
+            "name": "Brilliant Bloodfeather"
+          },
+          {
+            "ID": 1589,
+            "creatureId": 88413,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Crimsonwing Moth"
+          },
+          {
+            "ID": 1595,
+            "creatureId": 88572,
+            "icon": "inv_babyhippo01_green",
+            "name": "Flat-Tooth Calf"
+          },
+          {
+            "ID": 1583,
+            "creatureId": 88465,
+            "icon": "ability_hunter_pet_crab",
+            "name": "Kelp Scuttler"
+          },
+          {
+            "ID": 1599,
+            "creatureId": 88576,
+            "icon": "ability_hunter_pet_sporebat",
+            "name": "Shadow Sporebat"
+          }
+        ],
+        "name": "Talador"
+      },
+      {
+        "items": [
+          {
+            "ID": 1462,
+            "creatureId": 85255,
+            "icon": "inv_dragonflypet_red",
+            "name": "Bloodsting Wasp"
+          },
+          {
+            "ID": 1573,
+            "creatureId": 85798,
+            "icon": "inv_pet_peacock_blue",
+            "name": "Golden Dawnfeather"
+          },
+          {
+            "ID": 1592,
+            "creatureId": 88356,
+            "icon": "ability_hunter_pet_wasp",
+            "name": "Sapphire Firefly"
+          },
+          {
+            "ID": 1456,
+            "creatureId": 85007,
+            "icon": "inv_ravager2pet_white",
+            "name": "Thicket Skitterer"
+          }
+        ],
+        "name": "Spires of Arak"
+      },
+      {
+        "items": [
+          {
+            "ID": 1435,
+            "creatureId": 89198,
+            "icon": "inv_misc_foot_centaur",
+            "name": "Leatherhide Runt"
+          }
+        ],
+        "name": "Nagrand"
+      },
+      {
+        "items": [
+          {
+            "ID": 1468,
+            "creatureId": 85388,
+            "icon": "inv_toucan_color3",
+            "name": "Bloodbeak"
+          },
+          {
+            "ID": 1586,
+            "creatureId": 88422,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Cerulean Moth"
+          },
+          {
+            "ID": 1581,
+            "creatureId": 88473,
+            "icon": "ability_hunter_pet_crab",
+            "name": "Fen Crab"
+          },
+          {
+            "ID": 1591,
+            "creatureId": 88357,
+            "icon": "ability_hunter_pet_wasp",
+            "name": "Violet Firefly"
+          }
+        ],
+        "name": "Tanaan Jungle"
+      },
+      {
+        "items": [
+          {
+            "ID": 1741,
+            "creatureId": 97568,
+            "icon": "achievement_rat",
+            "name": "Ghastly Rat"
+          },
+          {
+            "ID": 1740,
+            "creatureId": 97569,
+            "icon": "inv_pet_maggot",
+            "name": "Ghost Maggot"
+          },
+          {
+            "ID": 1730,
+            "creatureId": 97324,
+            "icon": "achievement_halloween_spider_01",
+            "name": "Spectral Spinner"
+          }
+        ],
+        "name": "Garrison"
+      }
+    ]
+  },
+  {
+    "name": "Pandaria",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 708,
+            "creatureId": 63094,
+            "icon": "inv_misc_monstertail_01",
+            "name": "Malayan Quillrat"
+          },
+          {
+            "ID": 740,
+            "creatureId": 63957,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Yakrat"
+          }
+        ],
+        "name": "Multiple Zones"
+      },
+      {
+        "items": [
+          {
+            "ID": 732,
+            "creatureId": 65187,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Amber Moth"
+          },
+          {
+            "ID": 742,
+            "creatureId": 64242,
+            "icon": "inv_pet_porcupine",
+            "name": "Clouded Hedgehog"
+          },
+          {
+            "ID": 745,
+            "creatureId": 63548,
+            "icon": "ability_hunter_pet_scorpid",
+            "name": "Crunchy Scorpion"
+          },
+          {
+            "ID": 746,
+            "creatureId": 65203,
+            "icon": "inv_crab2_sapphire",
+            "name": "Emperor Crab"
+          },
+          {
+            "ID": 743,
+            "creatureId": 64352,
+            "icon": "trade_archaeology_fossil_snailshell",
+            "name": "Rapana Whelk"
+          },
+          {
+            "ID": 744,
+            "creatureId": 64238,
+            "icon": "inv_pet_cockroach",
+            "name": "Resilient Roach"
+          },
+          {
+            "ID": 741,
+            "creatureId": 64804,
+            "icon": "inv_pet_porcupine",
+            "name": "Silent Hedgehog"
+          }
+        ],
+        "name": "Dread Wastes"
+      },
+      {
+        "items": [
+          {
+            "ID": 1181,
+            "creatureId": 69818,
+            "icon": "inv_pet_pythonblack",
+            "name": "Elder Python"
+          },
+          {
+            "ID": 1179,
+            "creatureId": 69794,
+            "icon": "inv_pet_babythundercrocodile",
+            "name": "Electrified Razortooth"
+          },
+          {
+            "ID": 1182,
+            "creatureId": 69819,
+            "icon": "inv_pet_toad_green",
+            "name": "Swamp Croaker"
+          },
+          {
+            "ID": 1175,
+            "creatureId": 69648,
+            "icon": "inv_pet_thunderbeaver_blue",
+            "name": "Thundertail Flapper"
+          }
+        ],
+        "name": "Isle of Thunder"
+      },
+      {
+        "items": [
+          {
+            "ID": 716,
+            "creatureId": 63288,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Amethyst Spiderling"
+          },
+          {
+            "ID": 714,
+            "creatureId": 65054,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Feverbite Hatchling"
+          },
+          {
+            "ID": 678,
+            "creatureId": 63304,
+            "icon": "inv_pet_maggot",
+            "name": "Jungle Grub"
+          },
+          {
+            "ID": 718,
+            "creatureId": 65124,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Luyu Moth"
+          },
+          {
+            "ID": 722,
+            "creatureId": 65185,
+            "icon": "ability_hunter_pet_wasp",
+            "name": "Mei Li Sparkler"
+          },
+          {
+            "ID": 717,
+            "creatureId": 63291,
+            "icon": "inv_inscription_pigment_bug04",
+            "name": "Savory Beetle"
+          },
+          {
+            "ID": 723,
+            "creatureId": 63293,
+            "icon": "ability_mount_pandaranmountepicblack",
+            "name": "Spiny Terrapin"
+          },
+          {
+            "ID": 1128,
+            "creatureId": 68506,
+            "icon": "inv_pet_beaver",
+            "name": "Sumprush Rodent"
+          },
+          {
+            "ID": 1013,
+            "creatureId": 67022,
+            "icon": "ability_mount_pandaranmountblack",
+            "name": "Wanderer's Festival Hatchling"
+          }
+        ],
+        "name": "Krasarang Wilds"
+      },
+      {
+        "items": [
+          {
+            "ID": 724,
+            "creatureId": 63550,
+            "icon": "inv_misc_foxkit_white",
+            "name": "Alpine Foxling"
+          },
+          {
+            "ID": 725,
+            "creatureId": 63551,
+            "icon": "inv_misc_foxkit_white",
+            "name": "Alpine Foxling Kit"
+          },
+          {
+            "ID": 1166,
+            "creatureId": 68846,
+            "icon": "inv_misc_pet_pandaren_yeti",
+            "name": "Kun-Lai Runt"
+          },
+          {
+            "ID": 726,
+            "creatureId": 63547,
+            "icon": "trade_archaeology_trolllizardfootcharm",
+            "name": "Plains Monitor"
+          },
+          {
+            "ID": 727,
+            "creatureId": 59702,
+            "icon": "inv_pet_mouse",
+            "name": "Prairie Mouse"
+          },
+          {
+            "ID": 679,
+            "creatureId": 64248,
+            "icon": "inv_misc_monsterhorn_02",
+            "name": "Summit Kid"
+          },
+          {
+            "ID": 728,
+            "creatureId": 63585,
+            "icon": "inv_thanksgiving_turkey",
+            "name": "Szechuan Chicken"
+          },
+          {
+            "ID": 729,
+            "creatureId": 63557,
+            "icon": "inv_misc_rabbit",
+            "name": "Tolai Hare"
+          },
+          {
+            "ID": 730,
+            "creatureId": 63558,
+            "icon": "inv_misc_rabbit",
+            "name": "Tolai Hare Pup"
+          },
+          {
+            "ID": 731,
+            "creatureId": 63555,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Zooey Snake"
+          }
+        ],
+        "name": "Kun-Lai Summit"
+      },
+      {
+        "items": [
+          {
+            "ID": 380,
+            "creatureId": 62992,
+            "icon": "inv_pet_beaver",
+            "name": "Bucktooth Flapper"
+          },
+          {
+            "ID": 562,
+            "creatureId": 62991,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Coral Adder"
+          },
+          {
+            "ID": 564,
+            "creatureId": 62994,
+            "icon": "inv_babyturtle2_green",
+            "name": "Emerald Turtle"
+          },
+          {
+            "ID": 753,
+            "creatureId": 65215,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Garden Moth"
+          },
+          {
+            "ID": 571,
+            "creatureId": 63004,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Grove Viper"
+          },
+          {
+            "ID": 699,
+            "creatureId": 63715,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Jumping Spider"
+          },
+          {
+            "ID": 565,
+            "creatureId": 62997,
+            "icon": "spell_shaman_hex",
+            "name": "Jungle Darter"
+          },
+          {
+            "ID": 570,
+            "creatureId": 63003,
+            "icon": "inv_pet_raccoon",
+            "name": "Masked Tanuki"
+          },
+          {
+            "ID": 703,
+            "creatureId": 63716,
+            "icon": "inv_pet_raccoon",
+            "name": "Masked Tanuki Pup"
+          },
+          {
+            "ID": 566,
+            "creatureId": 62998,
+            "icon": "inv_pet_waterstrider",
+            "name": "Mirror Strider"
+          },
+          {
+            "ID": 573,
+            "creatureId": 63006,
+            "icon": "inv_misc_seagullpet_01",
+            "name": "Sandy Petrel"
+          },
+          {
+            "ID": 754,
+            "creatureId": 65216,
+            "icon": "ability_hunter_pet_wasp",
+            "name": "Shrine Fly"
+          },
+          {
+            "ID": 572,
+            "creatureId": 63005,
+            "icon": "inv_crab2_vermillian",
+            "name": "Spirebound Crab"
+          },
+          {
+            "ID": 567,
+            "creatureId": 62999,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Temple Snake"
+          },
+          {
+            "ID": 819,
+            "creatureId": 65321,
+            "icon": "inv_pandarenserpentpet",
+            "name": "Wild Crimson Hatchling"
+          },
+          {
+            "ID": 818,
+            "creatureId": 65324,
+            "icon": "inv_pet_babycloudserpent_gold",
+            "name": "Wild Golden Hatchling"
+          },
+          {
+            "ID": 817,
+            "creatureId": 65323,
+            "icon": "inv_pet_babycloudserpent",
+            "name": "Wild Jade Hatchling"
+          }
+        ],
+        "name": "The Jade Forest"
+      },
+      {
+        "items": [
+          {
+            "ID": 1324,
+            "creatureId": 73542,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Ashwing Moth",
+            "spellid": 148068
+          },
+          {
+            "ID": 1325,
+            "creatureId": 73543,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Flamering Moth",
+            "spellid": 148069
+          },
+          {
+            "ID": 1326,
+            "creatureId": 73368,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Skywisp Moth",
+            "spellid": 148065
+          }
+        ],
+        "name": "Timeless Isle"
+      },
+      {
+        "items": [
+          {
+            "ID": 733,
+            "creatureId": 63549,
+            "icon": "inv_pet_cricket",
+            "name": "Grassland Hopper"
+          },
+          {
+            "ID": 680,
+            "creatureId": 63953,
+            "icon": "inv_misc_monstertail_07",
+            "name": "Kuitan Mongoose"
+          },
+          {
+            "ID": 737,
+            "creatureId": 65190,
+            "icon": "inv_misc_monstertail_07",
+            "name": "Mongoose"
+          },
+          {
+            "ID": 739,
+            "creatureId": 63954,
+            "icon": "inv_misc_monstertail_07",
+            "name": "Mongoose Pup"
+          }
+        ],
+        "name": "Townlong Steppes"
+      },
+      {
+        "items": [
+          {
+            "ID": 751,
+            "creatureId": 63847,
+            "icon": "inv_pet_waterstrider",
+            "name": "Dancing Water Skimmer"
+          },
+          {
+            "ID": 747,
+            "creatureId": 63850,
+            "icon": "ability_hunter_pet_wasp",
+            "name": "Effervescent Glowfly"
+          },
+          {
+            "ID": 383,
+            "creatureId": 61088,
+            "icon": "inv_pet_waterstrider",
+            "name": "Eternal Strider"
+          },
+          {
+            "ID": 748,
+            "creatureId": 63838,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Gilded Moth"
+          },
+          {
+            "ID": 749,
+            "creatureId": 63841,
+            "icon": "inv_pet_otter",
+            "name": "Golden Civet"
+          },
+          {
+            "ID": 750,
+            "creatureId": 63842,
+            "icon": "inv_pet_otter",
+            "name": "Golden Civet Kitten"
+          },
+          {
+            "ID": 752,
+            "creatureId": 63849,
+            "icon": "spell_shaman_hex",
+            "name": "Yellow-Bellied Bullfrog"
+          }
+        ],
+        "name": "Vale of Eternal Blossoms"
+      },
+      {
+        "items": [
+          {
+            "ID": 706,
+            "creatureId": 63062,
+            "icon": "inv_pet_raccoon",
+            "name": "Bandicoon"
+          },
+          {
+            "ID": 707,
+            "creatureId": 63064,
+            "icon": "inv_pet_raccoon",
+            "name": "Bandicoon Kit"
+          },
+          {
+            "ID": 709,
+            "creatureId": 63095,
+            "icon": "inv_misc_monstertail_01",
+            "name": "Malayan Quillrat Pup"
+          },
+          {
+            "ID": 710,
+            "creatureId": 63096,
+            "icon": "inv_pet_cricket",
+            "name": "Marsh Fiddler"
+          },
+          {
+            "ID": 677,
+            "creatureId": 64246,
+            "icon": "inv_pet_raccoon",
+            "name": "Shy Bandicoon"
+          },
+          {
+            "ID": 711,
+            "creatureId": 63057,
+            "icon": "inv_pet_otter",
+            "name": "Sifang Otter"
+          },
+          {
+            "ID": 712,
+            "creatureId": 63358,
+            "icon": "inv_pet_otter",
+            "name": "Sifang Otter Pup"
+          },
+          {
+            "ID": 713,
+            "creatureId": 63060,
+            "icon": "inv_babyturtle2",
+            "name": "Softshell Snapling"
+          }
+        ],
+        "name": "Valley of the Four Winds"
+      }
+    ]
+  },
+  {
+    "name": "Cataclysm",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 540,
+            "creatureId": 62885,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Carrion Rat"
+          },
+          {
+            "ID": 755,
+            "creatureId": 62887,
+            "icon": "inv_pet_cockroach",
+            "name": "Death's Head Cockroach"
+          },
+          {
+            "ID": 539,
+            "creatureId": 62884,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Grotto Vole"
+          },
+          {
+            "ID": 547,
+            "creatureId": 62888,
+            "icon": "spell_nature_wispsplode",
+            "name": "Nordrassil Wisp"
+          }
+        ],
+        "name": "Mount Hyjal"
+      },
+      {
+        "items": [
+          {
+            "ID": 851,
+            "creatureId": 62894,
+            "icon": "trade_archaeology_trolllizardfootcharm",
+            "name": "Horned Lizard"
+          },
+          {
+            "ID": 545,
+            "creatureId": 62896,
+            "icon": "ability_hunter_pet_scorpid",
+            "name": "Leopard Scorpid"
+          },
+          {
+            "ID": 543,
+            "creatureId": 62893,
+            "icon": "inv_pet_cockroach",
+            "name": "Locust"
+          },
+          {
+            "ID": 542,
+            "creatureId": 62892,
+            "icon": "spell_shaman_hex",
+            "name": "Mac Frog"
+          },
+          {
+            "ID": 544,
+            "creatureId": 62895,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Oasis Moth"
+          },
+          {
+            "ID": 546,
+            "creatureId": 62899,
+            "icon": "inv_scarab_stone",
+            "name": "Tol'vir Scarab"
+          }
+        ],
+        "name": "Uldum"
+      },
+      {
+        "items": [
+          {
+            "ID": 550,
+            "creatureId": 62905,
+            "icon": "inv_pet_mouse",
+            "name": "Highlands Mouse"
+          },
+          {
+            "ID": 823,
+            "creatureId": 62907,
+            "icon": "inv_misc_volatileshadow",
+            "name": "Highlands Skunk"
+          },
+          {
+            "ID": 645,
+            "creatureId": 62906,
+            "icon": "inv_thanksgiving_turkey",
+            "name": "Highlands Turkey"
+          },
+          {
+            "ID": 552,
+            "creatureId": 62914,
+            "icon": "spell_shadow_shadowfiend",
+            "name": "Twilight Fiendling"
+          },
+          {
+            "ID": 548,
+            "creatureId": 62900,
+            "icon": "inv_misc_pet_02",
+            "name": "Wildhammer Gryphon Hatchling"
+          },
+          {
+            "ID": 549,
+            "creatureId": 62904,
+            "icon": "inv_prairiedog_brown",
+            "name": "Yellow-Bellied Marmot"
+          },
+          {
+            "ID": 2677,
+            "creatureId": 154803,
+            "icon": "inv_misc_head_dragon_black",
+            "name": "Twilight Whelpling"
+          }
+        ],
+        "name": "Twilight Highlands"
+      },
+      {
+        "items": [
+          {
+            "ID": 559,
+            "creatureId": 62927,
+            "icon": "inv_misc_qirajicrystal_02",
+            "name": "Crimson Geode"
+          },
+          {
+            "ID": 554,
+            "creatureId": 62922,
+            "icon": "inv_misc_qirajicrystal_02",
+            "name": "Crimson Shale Hatchling"
+          },
+          {
+            "ID": 556,
+            "creatureId": 62925,
+            "icon": "inv_inscription_pigment_bug04",
+            "name": "Crystal Beetle"
+          },
+          {
+            "ID": 555,
+            "creatureId": 62924,
+            "icon": "inv_pet_cockroach",
+            "name": "Deepholm Cockroach"
+          },
+          {
+            "ID": 837,
+            "creatureId": 62915,
+            "icon": "inv_misc_qirajicrystal_03",
+            "name": "Emerald Shale Hatchling"
+          },
+          {
+            "ID": 756,
+            "creatureId": 62916,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Fungal Moth"
+          },
+          {
+            "ID": 553,
+            "creatureId": 62921,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Stowaway Rat"
+          }
+        ],
+        "name": "Deepholm"
+      }
+    ]
+  },
+  {
+    "name": "Northrend",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 641,
+            "creatureId": 62693,
+            "icon": "inv_misc_rabbit",
+            "name": "Arctic Hare"
+          },
+          {
+            "ID": 536,
+            "creatureId": 62835,
+            "icon": "inv_pet_babypengu",
+            "name": "Tundra Penguin"
+          },
+          {
+            "ID": 1238,
+            "creatureId": 71163,
+            "icon": "inv_valkierpet",
+            "name": "Unborn Val'kyr"
+          }
+        ],
+        "name": "Multiple Zones"
+      },
+      {
+        "items": [
+          {
+            "ID": 558,
+            "creatureId": 62864,
+            "icon": "inv_misc_foxkit_white",
+            "name": "Arctic Fox Kit"
+          }
+        ],
+        "name": "The Storm Peaks"
+      },
+      {
+        "items": [
+          {
+            "ID": 649,
+            "creatureId": 62815,
+            "icon": "spell_shaman_hex",
+            "name": "Biletoad"
+          },
+          {
+            "ID": 1167,
+            "creatureId": 68850,
+            "icon": "ability_mount_feldrake",
+            "name": "Emerald Proto-Whelp"
+          },
+          {
+            "ID": 532,
+            "creatureId": 62816,
+            "icon": "ability_hunter_pet_rhino",
+            "name": "Stunted Shardhorn"
+          }
+        ],
+        "name": "Sholazar Basin"
+      },
+      {
+        "items": [
+          {
+            "ID": 639,
+            "creatureId": 62695,
+            "icon": "inv_prairiedog_brown",
+            "name": "Borean Marmot"
+          },
+          {
+            "ID": 530,
+            "creatureId": 62697,
+            "icon": "inv_misc_slime_02",
+            "name": "Oily Slimeling"
+          }
+        ],
+        "name": "Borean Tundra"
+      },
+      {
+        "items": [
+          {
+            "ID": 523,
+            "creatureId": 62640,
+            "icon": "inv_qiraj_skinsandworm",
+            "name": "Devouring Maggot"
+          },
+          {
+            "ID": 644,
+            "creatureId": 62641,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Fjord Rat"
+          },
+          {
+            "ID": 529,
+            "creatureId": 62669,
+            "icon": "ability_hunter_pet_wolf",
+            "name": "Fjord Worg Pup"
+          },
+          {
+            "ID": 525,
+            "creatureId": 62648,
+            "icon": "inv_thanksgiving_turkey",
+            "name": "Turkey"
+          }
+        ],
+        "name": "Howling Fjord"
+      },
+      {
+        "items": [
+          {
+            "ID": 537,
+            "creatureId": 62852,
+            "icon": "ability_hunter_pet_vulture",
+            "name": "Dragonbone Hatchling"
+          }
+        ],
+        "name": "Dragonblight"
+      },
+      {
+        "items": [
+          {
+            "ID": 1165,
+            "creatureId": 68845,
+            "icon": "inv_misc_head_dragon_nexus",
+            "name": "Nexus Whelpling"
+          }
+        ],
+        "name": "Coldarra"
+      },
+      {
+        "items": [
+          {
+            "ID": 534,
+            "creatureId": 62819,
+            "icon": "ability_hunter_eagleeye",
+            "name": "Imperial Eagle Chick"
+          }
+        ],
+        "name": "Grizzly Hills"
+      },
+      {
+        "items": [
+          {
+            "ID": 538,
+            "creatureId": 62854,
+            "icon": "inv_misc_head_dragon_black",
+            "name": "Scourged Whelpling"
+          }
+        ],
+        "name": "Icecrown"
+      },
+      {
+        "items": [
+          {
+            "ID": 535,
+            "creatureId": 62820,
+            "icon": "spell_frost_summonwaterelemental_2",
+            "name": "Water Waveling"
+          }
+        ],
+        "name": "Zul'Drak"
+      }
+    ]
+  },
+  {
+    "name": "Outland",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 518,
+            "creatureId": 62620,
+            "icon": "inv_misc_foot_centaur",
+            "name": "Clefthoof Runt"
+          }
+        ],
+        "name": "Nagrand"
+      },
+      {
+        "items": [
+          {
+            "ID": 521,
+            "creatureId": 62627,
+            "icon": "ability_hunter_pet_netherray",
+            "name": "Fledgling Nether Ray"
+          },
+          {
+            "ID": 638,
+            "creatureId": 62625,
+            "icon": "inv_pet_cockroach",
+            "name": "Nether Roach"
+          }
+        ],
+        "name": "Netherstorm"
+      },
+      {
+        "items": [
+          {
+            "ID": 1164,
+            "creatureId": 68841,
+            "icon": "inv_pet_mechanicalraptorpet",
+            "name": "Cogblade Raptor"
+          },
+          {
+            "ID": 528,
+            "creatureId": 62628,
+            "icon": "trade_archaeology_trolllizardfootcharm",
+            "name": "Scalded Basilisk Hatchling"
+          },
+          {
+            "ID": 637,
+            "creatureId": 62638,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Skittering Cavern Crawler"
+          }
+        ],
+        "name": "Blade's Edge Mountains"
+      },
+      {
+        "items": [
+          {
+            "ID": 514,
+            "creatureId": 62555,
+            "icon": "ability_racial_flayer",
+            "name": "Flayer Youngling"
+          }
+        ],
+        "name": "Hellfire Peninsula"
+      },
+      {
+        "items": [
+          {
+            "ID": 515,
+            "creatureId": 62564,
+            "icon": "inv_mushroom_11",
+            "name": "Sporeling Sprout"
+          }
+        ],
+        "name": "Zangarmarsh"
+      },
+      {
+        "items": [
+          {
+            "ID": 517,
+            "creatureId": 62583,
+            "icon": "ability_hunter_pet_warpstalker",
+            "name": "Warpstalker Hatchling"
+          }
+        ],
+        "name": "Terokkar Forest"
+      }
+    ]
+  },
+  {
+    "name": "Kalimdor",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 507,
+            "creatureId": 62242,
+            "icon": "ability_hunter_pet_owl",
+            "name": "Crested Owl"
+          },
+          {
+            "ID": 508,
+            "creatureId": 62250,
+            "icon": "inv_misc_bearcubbrown",
+            "name": "Darkshore Cub"
+          },
+          {
+            "ID": 464,
+            "creatureId": 62050,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Grey Moth"
+          },
+          {
+            "ID": 465,
+            "creatureId": 62051,
+            "icon": "ability_hunter_pet_ravager",
+            "name": "Ravager Hatchling"
+          },
+          {
+            "ID": 493,
+            "creatureId": 62246,
+            "icon": "trade_archaeology_fossil_snailshell",
+            "name": "Shimmershell Snail"
+          }
+        ],
+        "name": "Alliance Territory"
+      },
+      {
+        "items": [
+          {
+            "ID": 474,
+            "creatureId": 62129,
+            "icon": "ability_mount_jungletiger",
+            "name": "Cheetah Cub"
+          },
+          {
+            "ID": 468,
+            "creatureId": 62116,
+            "icon": "inv_misc_ahnqirajtrinket_01",
+            "name": "Creepy Crawly"
+          },
+          {
+            "ID": 477,
+            "creatureId": 62176,
+            "icon": "ability_warstomp",
+            "name": "Gazelle Fawn"
+          },
+          {
+            "ID": 1157,
+            "creatureId": 68804,
+            "icon": "inv_feather_08",
+            "name": "Harpy Youngling"
+          },
+          {
+            "ID": 466,
+            "creatureId": 62114,
+            "icon": "trade_archaeology_trolllizardfootcharm",
+            "name": "Spiny Lizard"
+          },
+          {
+            "ID": 473,
+            "creatureId": 62121,
+            "icon": "inv_babyturtle2_black",
+            "name": "Turquoise Turtle"
+          }
+        ],
+        "name": "Horde Territory"
+      },
+      {
+        "items": [
+          {
+            "ID": 487,
+            "creatureId": 62189,
+            "icon": "inv_misc_monstertail_01",
+            "name": "Alpine Chipmunk"
+          },
+          {
+            "ID": 632,
+            "creatureId": 62364,
+            "icon": "trade_archaeology_trolllizardfootcharm",
+            "name": "Ash Lizard"
+          },
+          {
+            "ID": 1163,
+            "creatureId": 68839,
+            "icon": "inv_pet_mechanicalbearcub",
+            "name": "Anodized Robo Cub"
+          },
+          {
+            "ID": 488,
+            "creatureId": 62190,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Coral Snake"
+          },
+          {
+            "ID": 634,
+            "creatureId": 62435,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Crystal Spider"
+          },
+          {
+            "ID": 484,
+            "creatureId": 62186,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Desert Spider"
+          },
+          {
+            "ID": 504,
+            "creatureId": 62375,
+            "icon": "inv_misc_monsterscales_16",
+            "name": "Diemetradon Hatchling"
+          },
+          {
+            "ID": 467,
+            "creatureId": 62115,
+            "icon": "inv_misc_ahnqirajtrinket_01",
+            "name": "Dung Beetle"
+          },
+          {
+            "ID": 479,
+            "creatureId": 62178,
+            "icon": "inv_misc_rabbit",
+            "name": "Elfin Rabbit"
+          },
+          {
+            "ID": 631,
+            "creatureId": 62127,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Emerald Boa"
+          },
+          {
+            "ID": 478,
+            "creatureId": 62177,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Forest Moth"
+          },
+          {
+            "ID": 495,
+            "creatureId": 62312,
+            "icon": "spell_shaman_hex",
+            "name": "Frog"
+          },
+          {
+            "ID": 475,
+            "creatureId": 62130,
+            "icon": "ability_warstomp",
+            "name": "Giraffe Calf"
+          },
+          {
+            "ID": 1161,
+            "creatureId": 68820,
+            "icon": "achievement_boss_infinitecorruptor",
+            "name": "Infinite Whelpling"
+          },
+          {
+            "ID": 500,
+            "creatureId": 62317,
+            "icon": "spell_shadow_summoninfernal",
+            "name": "Minfernal"
+          },
+          {
+            "ID": 557,
+            "creatureId": 62395,
+            "icon": "inv_egg_06",
+            "name": "Nether Faerie Dragon"
+          },
+          {
+            "ID": 513,
+            "creatureId": 62526,
+            "icon": "achievement_zone_silithus_01",
+            "name": "Qiraji Guardling"
+          },
+          {
+            "ID": 472,
+            "creatureId": 62120,
+            "icon": "inv_misc_monstertail_01",
+            "name": "Rabid Nut Varmint 5000"
+          },
+          {
+            "ID": 471,
+            "creatureId": 62119,
+            "icon": "inv_pet_mechanicalchicken",
+            "name": "Robo-Chick"
+          },
+          {
+            "ID": 496,
+            "creatureId": 62313,
+            "icon": "trade_archaeology_fossil_snailshell",
+            "name": "Rusty Snail"
+          },
+          {
+            "ID": 491,
+            "creatureId": 62257,
+            "icon": "ability_hunter_catlikereflexes",
+            "name": "Sand Kitten"
+          },
+          {
+            "ID": 512,
+            "creatureId": 62524,
+            "icon": "inv_misc_ahnqirajtrinket_01",
+            "name": "Scarab Hatchling"
+          },
+          {
+            "ID": 511,
+            "creatureId": 62523,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Sidewinder"
+          },
+          {
+            "ID": 494,
+            "creatureId": 62258,
+            "icon": "ability_hunter_pet_silithid",
+            "name": "Silithid Hatchling"
+          },
+          {
+            "ID": 503,
+            "creatureId": 62373,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Silky Moth"
+          },
+          {
+            "ID": 69,
+            "creatureId": 7554,
+            "icon": "ability_eyeoftheowl",
+            "name": "Snowy Owl"
+          },
+          {
+            "ID": 489,
+            "creatureId": 62201,
+            "icon": "inv_misc_head_dragon_black",
+            "name": "Spawn of Onyxia"
+          },
+          {
+            "ID": 502,
+            "creatureId": 62370,
+            "icon": "spell_shaman_hex",
+            "name": "Spotted Bell Frog"
+          },
+          {
+            "ID": 492,
+            "creatureId": 62256,
+            "icon": "inv_inscription_pigment_bug04",
+            "name": "Stinkbug"
+          },
+          {
+            "ID": 485,
+            "creatureId": 62187,
+            "icon": "inv_misc_babyarmadillopet",
+            "name": "Stone Armadillo"
+          },
+          {
+            "ID": 1158,
+            "creatureId": 68805,
+            "icon": "trade_archaeology_shriveledmonkeypaw",
+            "name": "Stunted Yeti"
+          },
+          {
+            "ID": 498,
+            "creatureId": 62315,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Tainted Moth"
+          },
+          {
+            "ID": 499,
+            "creatureId": 62316,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Tainted Rat"
+          },
+          {
+            "ID": 505,
+            "creatureId": 62255,
+            "icon": "trade_archaeology_trolllizardfootcharm",
+            "name": "Twilight Iguana"
+          },
+          {
+            "ID": 506,
+            "creatureId": 62191,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Venomspitter Hatchling"
+          }
+        ],
+        "name": ""
+      }
+    ]
+  },
+  {
+    "name": "Eastern Kingdoms",
+    "subcats": [
+      {
+        "items": [
+          {
+            "ID": 374,
+            "creatureId": 60649,
+            "icon": "spell_nature_polymorph",
+            "name": "Black Lamb"
+          },
+          {
+            "ID": 1162,
+            "creatureId": 68838,
+            "icon": "inv_pet_mechanicaltigercub",
+            "name": "Fluxfire Feline"
+          },
+          {
+            "ID": 442,
+            "creatureId": 61691,
+            "icon": "inv_pet_cockroach",
+            "name": "Irradiated Roach"
+          },
+          {
+            "ID": 437,
+            "creatureId": 61459,
+            "icon": "ability_mount_mountainram",
+            "name": "Little Black Ram"
+          },
+          {
+            "ID": 440,
+            "creatureId": 61689,
+            "icon": "ability_mount_pinktiger",
+            "name": "Snow Cub"
+          },
+          {
+            "ID": 675,
+            "creatureId": 62954,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Stormwind Rat"
+          },
+          {
+            "ID": 389,
+            "creatureId": 61160,
+            "icon": "inv_misc_gear_03",
+            "name": "Tiny Harvester"
+          }
+        ],
+        "name": "Alliance Territory"
+      },
+      {
+        "items": [
+          {
+            "ID": 455,
+            "creatureId": 61890,
+            "icon": "inv_pet_diseasedsquirrel",
+            "name": "Blighted Squirrel"
+          },
+          {
+            "ID": 461,
+            "creatureId": 62022,
+            "icon": "inv_misc_food_vendor_boiledsilkwormpupa",
+            "name": "Larva"
+          },
+          {
+            "ID": 458,
+            "creatureId": 61905,
+            "icon": "spell_holy_senseundead",
+            "name": "Lost of Lordaeron"
+          },
+          {
+            "ID": 460,
+            "creatureId": 62020,
+            "icon": "ability_druid_forceofnature",
+            "name": "Ruby Sapling"
+          },
+          {
+            "ID": 463,
+            "creatureId": 62034,
+            "icon": "inv_jewelcrafting_truesilvercrab",
+            "name": "Spirit Crab"
+          },
+          {
+            "ID": 454,
+            "creatureId": 61889,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Undercity Rat"
+          }
+        ],
+        "name": "Horde Territory"
+      },
+      {
+        "items": [
+          {
+            "ID": 1160,
+            "creatureId": 68819,
+            "icon": "inv_misc_rune_03",
+            "name": "Arcane Eye"
+          },
+          {
+            "ID": 411,
+            "creatureId": 61324,
+            "icon": "inv_pet_achievement_winapetbattle",
+            "name": "Baby Ape"
+          },
+          {
+            "ID": 456,
+            "creatureId": 61826,
+            "icon": "inv_pet_undeadeagle",
+            "name": "Blighthawk"
+          },
+          {
+            "ID": 421,
+            "creatureId": 61314,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Crimson Moth"
+          },
+          {
+            "ID": 396,
+            "creatureId": 61253,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Dusk Spiderling"
+          },
+          {
+            "ID": 457,
+            "creatureId": 61830,
+            "icon": "ability_hunter_pet_worm",
+            "name": "Festering Maggot"
+          },
+          {
+            "ID": 395,
+            "creatureId": 61171,
+            "icon": "ability_hunter_pet_vulture",
+            "name": "Fledgling Buzzard"
+          },
+          {
+            "ID": 443,
+            "creatureId": 61704,
+            "icon": "inv_misc_rabbit",
+            "name": "Grasslands Cottontail"
+          },
+          {
+            "ID": 453,
+            "creatureId": 61758,
+            "icon": "inv_pet_diseasedbearcub",
+            "name": "Infested Bear Cub"
+          },
+          {
+            "ID": 446,
+            "creatureId": 61718,
+            "icon": "inv_misc_slime_01",
+            "name": "Jade Oozeling"
+          },
+          {
+            "ID": 438,
+            "creatureId": 61443,
+            "icon": "spell_nature_guardianward",
+            "name": "King Snake"
+          },
+          {
+            "ID": 429,
+            "creatureId": 61386,
+            "icon": "inv_inscription_pigment_bug04",
+            "name": "Lava Beetle"
+          },
+          {
+            "ID": 423,
+            "creatureId": 61383,
+            "icon": "inv_crab2_vermillian",
+            "name": "Lava Crab"
+          },
+          {
+            "ID": 408,
+            "creatureId": 61321,
+            "icon": "trade_archaeology_trolllizardfootcharm",
+            "name": "Lizard Hatchling"
+          },
+          {
+            "ID": 1159,
+            "creatureId": 68806,
+            "icon": "inv_misc_book_08",
+            "name": "Lofty Libram"
+          },
+          {
+            "ID": 422,
+            "creatureId": 61372,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Moccasin"
+          },
+          {
+            "ID": 428,
+            "creatureId": 61425,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Molten Hatchling"
+          },
+          {
+            "ID": 409,
+            "creatureId": 61322,
+            "icon": "spell_nature_forceofnature",
+            "name": "Polly"
+          },
+          {
+            "ID": 399,
+            "creatureId": 61258,
+            "icon": "ability_hunter_snaketrap",
+            "name": "Rat Snake"
+          },
+          {
+            "ID": 392,
+            "creatureId": 61168,
+            "icon": "inv_misc_monstertail_03",
+            "name": "Redridge Rat"
+          },
+          {
+            "ID": 439,
+            "creatureId": 61375,
+            "icon": "ability_druid_dreamstate",
+            "name": "Restless Shadeling"
+          },
+          {
+            "ID": 416,
+            "creatureId": 61329,
+            "icon": "ability_hunter_pet_scorpid",
+            "name": "Scorpling"
+          },
+          {
+            "ID": 640,
+            "creatureId": 61755,
+            "icon": "inv_misc_rabbit",
+            "name": "Snowshoe Hare"
+          },
+          {
+            "ID": 402,
+            "creatureId": 61370,
+            "icon": "ability_hunter_pet_moth",
+            "name": "Swamp Moth"
+          },
+          {
+            "ID": 509,
+            "creatureId": 61686,
+            "icon": "inv_shoulder_18",
+            "name": "Tiny Bog Beast"
+          },
+          {
+            "ID": 445,
+            "creatureId": 61703,
+            "icon": "ability_druid_galewinds",
+            "name": "Tiny Twister"
+          },
+          {
+            "ID": 400,
+            "creatureId": 61259,
+            "icon": "ability_hunter_pet_spider",
+            "name": "Widow Spiderling"
+          }
+        ],
+        "name": ""
+      }
+    ]
+  }
+]
