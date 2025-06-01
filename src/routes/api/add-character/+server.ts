@@ -2,7 +2,7 @@ import { json } from '@sveltejs/kit';
 import { MongoClient } from 'mongodb';
 import { MONGODB_URI } from '$env/static/private';
 
-// Hilfsfunktion: Charakter prüfen (armorystats.info, jetzt mit Region)
+// Hilfsfunktion: Charakter prüfen und Raider.IO API aufrufen
 async function checkArmory(region: string, realm: string, character: string): Promise<Record<string, any> | null> {
   
   // Realm für API anpassen (klein und mit Bindestrich)
@@ -15,6 +15,7 @@ async function checkArmory(region: string, realm: string, character: string): Pr
     'mythic_plus_scores_by_season:current'
   ].join(',');
 
+  // Raider.IO API URL
   const url = `https://raider.io/api/v1/characters/profile?region=${region}&realm=${safeRealm}&name=${safeName}&fields=${fields}`;
   console.log('RaiderIO-URL:', url);
 
@@ -29,7 +30,7 @@ async function checkArmory(region: string, realm: string, character: string): Pr
   }
 }
 
-
+// POST-Handler für das Hinzufügen eines Charakters
 export async function POST({ request }) {
   const { region, realm, character } = await request.json();
 
@@ -43,6 +44,7 @@ export async function POST({ request }) {
     );
   }
 
+//Daten, die in MongoDB gespeichert werden sollen
 const entry = {
   name: charData.name,
   race: charData.race,
@@ -76,6 +78,7 @@ const entry = {
     { $set: entry },
     { upsert: true }
   );
+  //Debug-Ausgabe
   console.log("MongoDB update erfolgreich", entry);
 
   await client.close();

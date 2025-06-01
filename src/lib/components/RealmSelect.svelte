@@ -11,6 +11,7 @@
   let showList = false;
 
   // Realms beim Mount laden
+
   onMount(() => {
     loadRealms(region);
     search = value;
@@ -23,6 +24,8 @@
   }
 
 
+  // Funktion zum Laden der Realms basierend auf der Region
+  // Lädt die Realms von einer JSON-Datei, die die Serverdaten enthält
   async function loadRealms(region: string) {
     let list = [];
     if (region === 'eu') {
@@ -36,6 +39,8 @@
   }
 
   // Einfache Filterfunktion
+  // Filtert die Realms basierend auf der Suchanfrage
+  // Wenn keine Suchanfrage vorhanden ist, werden alle Realms angezeigt
   $: filtered = search
     ? realms.filter(r => r.toLowerCase().includes(search.toLowerCase()))
     : realms;

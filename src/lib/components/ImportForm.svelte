@@ -2,15 +2,24 @@
   import RealmSelect from './RealmSelect.svelte';
   import { goto } from '$app/navigation';
 
+  //Legt die Standardwerte für Region, Realm und Charakter fest
+  //Region ist standardmäßig auf 'eu' gesetzt, Realm und Charakter sind leer
+
   let region = 'eu';
   let realm = '';
   let character = '';
 
+  // Funktion zum Handhaben des Formular-Submit-Ereignisses
+  // Überprüft, ob alle Felder ausgefüllt sind und sendet die Daten an den Server
+  // Bei Erfolg wird der Benutzer zur Übersicht weitergeleitet, andernfalls wird eine Fehlermeldung angezeigt
   const handleSubmit = async () => {
     if (!region || !realm || !character) {
       alert('Bitte alle Felder ausfüllen!');
       return;
     }
+
+    // Sendet die eingegebenen Daten an den Server
+    // und erwartet eine JSON-Antwort
 
     const res = await fetch('/api/add-character', {
       method: 'POST',
@@ -26,6 +35,7 @@
     }
   };
 </script>
+
 
 <h1 class="headline">Enter realm and character</h1>
 <form on:submit|preventDefault={handleSubmit} autocomplete="off">

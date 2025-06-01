@@ -8,10 +8,13 @@
   let realm: string | null = null;
   let name: string | null = null;
 
+  // Extract parameters from the URL
   $: region = $page.url.searchParams.get('region');
   $: realm = $page.url.searchParams.get('realm');
   $: name = $page.url.searchParams.get('name');
 
+  // Fetch guild data when the component mounts
+  // and the parameters are available
   onMount(async () => {
     if (region && realm && name) {
       const res = await fetch(`/api/guild/${region}/${realm}/${name}`);

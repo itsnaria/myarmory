@@ -9,6 +9,7 @@ const dbName = process.env.MONGODB_DB as string || 'myarmory';
 
 const client = new MongoClient(uri);
 
+// Funktion zum Abrufen der Datenbankverbindung
 export async function getDb() {
   if (typeof client.connect === 'function') {
     await client.connect();

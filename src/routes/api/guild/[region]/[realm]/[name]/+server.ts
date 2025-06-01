@@ -43,6 +43,7 @@ export const GET: RequestHandler = async ({ params }) => {
 };
 
 // --------- DELETE: Gilde aus DB löschen ---------
+//Funktion auf der Website nicht umgesetzt
 export const DELETE: RequestHandler = async ({ params }) => {
   const region = params.region.toLowerCase();
   const realm = params.realm.trim().toLowerCase().replace(/ /g, '-');

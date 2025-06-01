@@ -7,6 +7,7 @@
   let chars = [];
   let selected = 0;
 
+  // Farben für Klassen
   const CLASS_COLORS = {
     'Death Knight': '#C41F3B',
     'Demon Hunter': '#A330C9',
@@ -23,10 +24,13 @@
     'Warrior': '#C79C6E'
   };
 
+  // Funktion zum Abrufen der Klassenfarbe
   function getClassColor(className) {
     return CLASS_COLORS[className] ?? '#bbb';
   }
 
+  // --- Laden der Charaktere ---
+  // Beim Mounten der Komponente die Charaktere laden
   onMount(async () => {
     const res = await fetch('/api/chars');
     chars = await res.json();
@@ -34,11 +38,15 @@
     if (chars.length > 0) selectedChar.set(chars[selected]);
   });
 
+  // Funktion zum Auswählen eines Charakters
+  // Setzt den ausgewählten Charakter und aktualisiert den Store
   function selectChar(idx) {
     selected = idx;
     selectedChar.set(chars[selected]);
   }
 
+  // Funktion zum Formatieren des Raid-Namens
+  // Wandelt den Slug in einen lesbaren Namen um
   function prettyRaidName(slug) {
     return slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
   }
@@ -47,6 +55,8 @@
   let showConfirm = false;
   let charToDelete = null;
 
+  // Funktion zum Aktualisieren eines Charakters
+  // Ruft die API auf, um die neuesten Daten zu laden
   function refreshChar(char, idx) {
     fetch(`/api/chars/${char.region}/${encodeURIComponent(char.realm)}/${encodeURIComponent(char.name)}?forceUpdate=1`)
       .then(r => r.json())
@@ -57,11 +67,13 @@
       });
   }
 
+  // Funktion zum Bestätigen der Löschung eines Charakters
   function confirmDelete(char, idx) {
     charToDelete = { ...char, idx };
     showConfirm = true;
   }
 
+// Funktion zum Löschen eines Charakters
 function deleteCharConfirmed() {
   if (!charToDelete) return;
   fetch(`/api/chars/${charToDelete.region}/${encodeURIComponent(charToDelete.realm)}/${encodeURIComponent(charToDelete.name)}`, { method: 'DELETE' })
@@ -81,7 +93,7 @@ function deleteCharConfirmed() {
     });
 }
 
-
+// Funktion zum Abbrechen der Löschung
   function cancelDelete() {
     showConfirm = false;
     charToDelete = null;

@@ -8,6 +8,7 @@ async function connectToDatabase() {
   return client.db('wowdb');
 }
 
+// DELETE-Handler zum Löschen eines Charakters
 export const DELETE: RequestHandler = async ({ params }) => {
   const region = params.region.toLowerCase();
   const realmParam = params.realm.trim().toLowerCase().replace(/ /g, '-');
@@ -25,6 +26,7 @@ export const DELETE: RequestHandler = async ({ params }) => {
     name: new RegExp('^' + name + '$', 'i')
   });
 
+  // Debug-Ausgabe
   console.log("Lösche mit:", {
     region: new RegExp('^' + region + '$', 'i'),
     realm: realmRegex,

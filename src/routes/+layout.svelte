@@ -19,7 +19,7 @@
   <span class="nav-link disabled">Guild</span>
 {/if}
 
-    <!-- Weitere Navlinks hier -->
+    <!-- Weitere Navlinks hier bei Bedarf -->
   </div>
 </nav>
 <slot />
